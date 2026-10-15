@@ -5,6 +5,12 @@ ini_set('log_errors', 1);
 ini_set('error_log', __DIR__ . '/error_log');
 // Optionally, hide errors from users in production
 ini_set('display_errors', 0);
+$canonicalPage = basename($_SERVER['PHP_SELF'] ?? 'index.php');
+$canonicalUrl = $canonicalPage === 'index.php'
+    ? 'https://eclipsewatertechnologies.com/'
+    : 'https://eclipsewatertechnologies.com/' . rawurlencode($canonicalPage);
+$hasCanonical = isset($pageExtraHead)
+    && preg_match('/<link\b[^>]*\brel\s*=\s*(["\'])canonical\1/i', $pageExtraHead) === 1;
 ?>
 <!DOCTYPE html>
 <html lang="en-CA">
@@ -18,6 +24,9 @@ ini_set('display_errors', 0);
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <?php if (!$hasCanonical): ?>
+    <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl, ENT_QUOTES, 'UTF-8'); ?>">
+    <?php endif; ?>
     <?php if (isset($pageExtraHead)) echo $pageExtraHead; ?>
 </head>
 <body>

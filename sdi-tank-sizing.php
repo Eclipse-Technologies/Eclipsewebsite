@@ -1,6 +1,7 @@
 ﻿<?php
 $pageTitle = 'SDI Tank Sizing Calculator | Eclipse Water Technologies';
 $pageDescription = 'Use this tool to determine the right SDI tank size for your application. Enter your water usage and quality details to get a step-by-step sizing recommendation.';
+$pageExtraHead = '<link rel="canonical" href="https://eclipsewatertechnologies.com/sdi-tank-sizing.php" />';
 include 'header.php';
 ?>
     <section class="hero hero-sub">
