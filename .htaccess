@@ -2,6 +2,11 @@ DirectoryIndex index.php
 
 RewriteEngine On
 
+# Force https and the non-www host so each page has a single URL
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^(.*)$ https://eclipsewatertechnologies.com/$1 [R=301,L]
+
 RewriteRule ^index\.html$ / [R=301,L,NC]
 RewriteRule ^index\.php$ / [R=301,L,NC]
 RewriteRule ^about\.html$ /about.php [R=301,L,NC]
