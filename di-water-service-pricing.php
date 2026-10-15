@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'DI Water Service Pricing Ontario | How Much Does SDI Cost? | Eclipse Water Technologies';
-$pageDescription = 'How much does deionized water service cost in Ontario? Learn what drives SDI tank exchange pricing, typical cost ranges, and how to reduce your per-gallon water cost.';
+$pageDescription = 'How much does deionized water service cost in Ontario? Learn what drives SDI tank exchange pricing, what to expect, and how to reduce your per-gallon water cost.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="DI water service cost Ontario, SDI tank exchange pricing, deionized water cost per gallon Canada, how much does DI water service cost, water treatment pricing Ontario" />
@@ -27,7 +27,7 @@ $pageExtraHead = <<<'EXTRAHEAD'
         "name": "How much does DI water service cost in Ontario?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "DI tank exchange service in Ontario is typically priced per exchange event or on a flat monthly basis. A small mixed-bed tank exchange for a lab or light industrial use generally ranges from $100–$300 per swap, while larger industrial tanks can range from $300–$900+ depending on resin volume, feed water TDS, and service frequency. The best way to get an accurate number is a free site assessment — contact Eclipse Water Technologies at 647-355-0944."
+          "text": "DI tank exchange service in Ontario is typically priced per exchange event or on a flat monthly basis. Pricing depends on resin volume, feed water TDS, and service frequency, so Eclipse quotes each facility individually. The best way to get an accurate number is a free site assessment — contact Eclipse Water Technologies at 647-355-0944."
         }
       },
       {
@@ -43,7 +43,7 @@ $pageExtraHead = <<<'EXTRAHEAD'
         "name": "Is DI tank exchange service cheaper than buying deionized water?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "For most industrial and laboratory applications, DI tank exchange service is significantly cheaper than buying bottled or bulk DI water. Once you account for delivery, containers, and handling, bulk DI water typically costs $0.10–$0.50 per litre depending on volume. An exchange service producing the same output in-line is usually a fraction of that cost per litre at scale."
+          "text": "For most industrial and laboratory applications, DI tank exchange service is significantly cheaper than buying bottled or bulk DI water. Once you account for delivery, containers, and handling, bulk DI water adds up quickly with volume. An exchange service producing the same output in-line is usually a fraction of that cost per litre at scale."
         }
       },
       {
@@ -112,15 +112,15 @@ include 'header.php';
   </section>
 
   <section class="container" style="margin-top:1rem;">
-    <h2 style="font-family:'Montserrat',sans-serif;color:#003366;margin-bottom:1rem;">Typical cost ranges in Ontario</h2>
-    <p style="margin-bottom:1rem;">These ranges reflect common scenarios for Ontario facilities served by Eclipse. Your actual cost depends on a site assessment — but these figures give a realistic starting point.</p>
+    <h2 style="font-family:'Montserrat',sans-serif;color:#003366;margin-bottom:1rem;">    Pricing by application</h2>
+        <p style="margin-bottom:1rem;">These are common scenarios for Ontario facilities served by Eclipse. Your actual cost depends on a site assessment, so we quote each facility individually.</p>
     <div class="table-wrap">
       <table class="spec-table">
         <thead>
           <tr>
             <th>Application</th>
             <th>Typical Tank Size</th>
-            <th>Estimated Cost per Swap</th>
+            <th>Cost per Swap</th>
             <th>Notes</th>
           </tr>
         </thead>
@@ -128,31 +128,31 @@ include 'header.php';
           <tr>
             <td>Small lab or dental office</td>
             <td>1–3 cubic foot mixed-bed</td>
-            <td>$100 – $250</td>
+            <td>Ask for Quote</td>
             <td>Low volume, infrequent swaps</td>
           </tr>
           <tr>
             <td>Medium lab or light industrial</td>
             <td>3–6 cubic foot mixed-bed</td>
-            <td>$200 – $450</td>
+            <td>Ask for Quote</td>
             <td>Monthly or bi-monthly service typical</td>
           </tr>
           <tr>
             <td>Industrial rinse line or CNC</td>
             <td>6–15 cubic foot cation/anion + polish</td>
-            <td>$400 – $900</td>
+            <td>Ask for Quote</td>
             <td>Frequency depends on TDS and volume</td>
           </tr>
           <tr>
             <td>Hospital or high-purity process</td>
             <td>15+ cubic foot multi-vessel</td>
-            <td>$600 – $1,500+</td>
+            <td>Ask for Quote</td>
             <td>Multi-tank systems, tight purity specs</td>
           </tr>
         </tbody>
       </table>
     </div>
-    <p style="font-size:0.9rem;color:#666;margin-top:0.5rem;">Note: Prices above are representative ranges and do not include taxes. Final pricing is based on a site assessment. <a class="link" href="contact.php">Request a free quote →</a></p>
+    <p style="font-size:0.9rem;color:#666;margin-top:0.5rem;">Note: Final pricing is based on a site assessment and does not include taxes. <a class="link" href="contact.php">Request a free quote →</a></p>
   </section>
 
   <section class="container" style="margin-top:1rem;">
@@ -185,7 +185,7 @@ include 'header.php';
     <div class="cards">
       <article class="card">
         <p><strong>How much does DI water service cost in Ontario?</strong><br>
-        A small mixed-bed tank exchange for light industrial or lab use typically runs $100–$300 per swap. Larger industrial tanks range from $300–$900+ depending on resin volume, feed TDS, and frequency. Contact us for a site-specific quote.</p>
+        Pricing depends on resin volume, feed TDS, and service frequency, so Eclipse quotes each facility individually. Contact us for a site-specific quote.</p>
       </article>
       <article class="card">
         <p><strong>Is DI service cheaper than buying bottled DI water?</strong><br>

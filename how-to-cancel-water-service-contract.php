@@ -22,7 +22,7 @@ include 'header.php';
     <p>Before ending deliveries, coordinate the replacement service, installation or exchange schedule, water-quality requirements, and contingency plan with the people responsible for operations. Avoid a gap in service that could affect production, laboratory work, or other critical processes.</p>
 
     <h2>4. Send and document your notice</h2>
-    <p>Follow the notice method and timing specified in your agreement. Identify the account and requested end date, retain a copy of the notice, and save confirmation that the provider received it. Ask the provider to confirm the final service date and any remaining steps in writing.</p>
+    <p>Follow the notice method and timing specified in your agreement. Identify the account and requested end date, retain a copy of the notice, and keep a record showing that you have communicated to the previous provider in writing and met your obligations under the agreement. You can also state in the notice that their equipment is located at your dock and is available for pickup immediately. It is common not to receive any response from your previous supplier, so we recommend installing new tanks immediately after giving notice.</p>
 
     <h2>5. Reconcile the final account</h2>
     <p>Review the final invoice against the agreement and confirm that scheduled pickups, equipment returns, and account closure are complete. Keep the contract, notices, delivery records, invoices, and written confirmations together for your records.</p>

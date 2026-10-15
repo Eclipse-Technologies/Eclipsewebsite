@@ -1,6 +1,6 @@
 ﻿<?php
 $pageTitle = 'How Service Deionization Works | Eclipse Water Technologies';
-$pageDescription = 'A clear explanation of how service deionization (SDI) works — from ion exchange resin to tank exchange programs — and what it means for your facility''s water quality.';
+$pageDescription = 'A clear explanation of how service deionization (SDI) works — from ion exchange resin to tank exchange programs — and what it means for your facility\'s water quality.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="how service deionization works, what is SDI water, ion exchange deionization explained, mixed bed resin explained, DI water process Canada" />
