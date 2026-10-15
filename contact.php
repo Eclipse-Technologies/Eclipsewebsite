@@ -60,7 +60,7 @@ unset($_SESSION['contact_errors'], $_SESSION['contact_success'], $_SESSION['cont
         </select>
         <label for="contact-message">Your Message</label>
         <textarea id="contact-message" name="message" rows="5" placeholder="Your Message" required><?= isset($old['message']) ? htmlspecialchars($old['message']) : '' ?></textarea>
-        <button class="btn" type="submit">Request a Quote</button>
+        <button class="btn" type="submit">Submit</button>
       </form>
     </div>
     <div class="highlight">
