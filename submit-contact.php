@@ -13,6 +13,15 @@ $name    = isset($_POST['name'])    ? trim($_POST['name'])    : '';
 $email   = isset($_POST['email'])   ? trim($_POST['email'])   : '';
 $company = isset($_POST['company']) ? trim($_POST['company']) : '';
 $message = isset($_POST['message']) ? trim($_POST['message']) : '';
+$phone   = isset($_POST['phone'])   ? trim($_POST['phone'])   : '';
+$service = isset($_POST['service']) ? trim($_POST['service']) : '';
+$source  = isset($_SESSION['quote_from']) ? $_SESSION['quote_from'] : 'direct / unknown';
+
+// Strip line breaks to prevent mail header injection
+$name  = str_replace(["\r", "\n"], ' ', $name);
+$email = str_replace(["\r", "\n"], '', $email);
+$phone = str_replace(["\r", "\n"], ' ', $phone);
+$service = str_replace(["\r", "\n"], ' ', $service);
 
 $errors = [];
 if ($name === '') {
@@ -35,8 +44,8 @@ if ($errors) {
 
 // Prepare email
 $to = 'rlee@eclipsewatertechnologies.com';
-$subject = 'New Contact Form Submission';
-$body = "Name: $name\nEmail: $email\nCompany: $company\nMessage:\n$message";
+$subject = 'New Quote Request' . ($service !== '' ? ": $service" : '');
+$body = "Name: $name\nEmail: $email\nPhone: $phone\nCompany: $company\nService: $service\nCame from: $source\n\nMessage:\n$message";
 $headers = "From: noreply@eclipsewatertechnologies.com\r\nReply-To: $email";
 
 // Send email (use mail() or log to file if mail is not configured)
@@ -49,6 +58,5 @@ if (!mail($to, $subject, $body, $headers)) {
 }
 
 // Success
-$_SESSION['contact_success'] = true;
-header('Location: contact.php');
+header('Location: thank-you.php');
 exit;

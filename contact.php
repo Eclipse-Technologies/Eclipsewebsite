@@ -1,5 +1,10 @@
 <?php
 session_start();
+$ref = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : '';
+if ($ref !== '' && strpos($ref, 'contact.php') === false && strpos($ref, 'submit-contact') === false) {
+    $_SESSION['quote_from'] = substr($ref, 0, 300);
+}
+$serviceOptions = ['DI tank exchange', 'DI water service', 'Reverse osmosis (RO)', 'Water softener', 'Carbon filtration', 'Equipment / system purchase', 'Other / not sure'];
 $pageTitle = 'Industrial Water Treatment Contact Ontario | Eclipse Water Technologies';
 $pageDescription = 'Contact Eclipse Water Technologies for industrial water treatment, deionized water service, reverse osmosis, and process water solutions across Ontario and Toronto.';
 include 'header.php';
@@ -44,9 +49,18 @@ unset($_SESSION['contact_errors'], $_SESSION['contact_success'], $_SESSION['cont
         <input id="contact-email" type="email" name="email" placeholder="Your Email" required value="<?= isset($old['email']) ? htmlspecialchars($old['email']) : '' ?>" />
         <label for="contact-company">Company <span style="font-weight:400;color:#666;">(optional)</span></label>
         <input id="contact-company" type="text" name="company" placeholder="Company (optional)" value="<?= isset($old['company']) ? htmlspecialchars($old['company']) : '' ?>" />
+        <label for="contact-phone">Phone <span style="font-weight:400;color:#666;">(optional)</span></label>
+        <input id="contact-phone" type="tel" name="phone" placeholder="Phone (optional)" value="<?= isset($old['phone']) ? htmlspecialchars($old['phone']) : '' ?>" />
+        <label for="contact-service">What do you need?</label>
+        <select id="contact-service" name="service">
+          <option value="">Select a service (optional)</option>
+          <?php foreach ($serviceOptions as $opt): ?>
+            <option value="<?= htmlspecialchars($opt) ?>"<?= (isset($old['service']) && $old['service'] === $opt) ? ' selected' : '' ?>><?= htmlspecialchars($opt) ?></option>
+          <?php endforeach; ?>
+        </select>
         <label for="contact-message">Your Message</label>
         <textarea id="contact-message" name="message" rows="5" placeholder="Your Message" required><?= isset($old['message']) ? htmlspecialchars($old['message']) : '' ?></textarea>
-        <button class="btn" type="submit">Submit</button>
+        <button class="btn" type="submit">Request a Quote</button>
       </form>
     </div>
     <div class="highlight">
