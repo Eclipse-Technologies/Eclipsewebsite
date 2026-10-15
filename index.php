@@ -54,6 +54,7 @@ include 'header.php';
         <a href="contact.php" class="btn btn-white" style="font-size:1.05rem;padding:0.75em 2.2em;">Request a Quote</a>
         <a href="services.php" class="btn btn-outline" style="font-size:1.05rem;padding:0.75em 2.2em;">Explore Services</a>
       </div>
+      <p style="margin-top:1.2em;font-size:1.1rem;">Questions? Call us today: <a href="tel:+16473550944" style="color:#fff;font-weight:700;white-space:nowrap;">647-355-0944</a></p>
     </div>
   </section>
 
@@ -192,6 +193,7 @@ include 'header.php';
       <h2>Need a water treatment solution that keeps operations moving?</h2>
       <p>Tell us your application and we’ll recommend the best fit for your system, service schedule, and operating goals.</p>
       <a href="contact.php" class="btn" style="margin-top:0.75rem;">Talk to an Engineer</a>
+      <p style="margin-top:0.9rem;">Or call us directly: <a href="tel:+16473550944" style="font-weight:700;white-space:nowrap;">647-355-0944</a></p>
     </div>
   </section>
 
