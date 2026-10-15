@@ -55,10 +55,7 @@ include 'header.php';
 <section class="hero hero-sub">
     <div class="container">
       <h1>Local Manufacturing Water Service Can Reduce Downtime Risk and Cost</h1>
-      <p>For Ontario manufacturers, local DI and process water support can reduce cross-border service exposure while improving response speed and schedule reliability.</p>
-      <a href="contact.php" class="btn">Request a Manufacturing Service Review</a>
-    </div>
-  </section>
+      <p>For Ontario manufacturers, local DI and process water support can reduce cross-border service exposure while improving response speed and schedule reliability. Many competing service programs still rely on regenerated resin processed in Indiana, which adds shipping delays, customs friction, and cost volatility that can interrupt production planning.</p>
 
   <section class="container cards">
     <article class="card">

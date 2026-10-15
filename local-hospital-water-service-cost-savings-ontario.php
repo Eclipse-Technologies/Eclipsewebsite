@@ -55,10 +55,7 @@ include 'header.php';
 <section class="hero hero-sub">
     <div class="container">
       <h1>Local Hospital Water Service Can Reduce Cost and Response Risk</h1>
-      <p>For Ontario hospitals and healthcare facilities, local DI and high purity water support can improve service continuity, response time, and cost control.</p>
-      <a href="contact.php" class="btn">Request a Hospital Service Review</a>
-    </div>
-  </section>
+      <p>For Ontario hospitals and healthcare facilities, local DI and high purity water support can improve service continuity, response time, and cost control. Many competing programs still depend on regenerated resin processed in Indiana, which adds another layer of transport and cost volatility that hospitals often want to avoid.</p>
 
   <section class="container cards">
     <article class="card">

@@ -1,7 +1,7 @@
 <?php
 session_start();
-$pageTitle = 'Contact | Eclipse Water Technologies';
-$pageDescription = 'Get in touch with Eclipse Water Technologies. Reach out to Robert Lee, CET, PMP for expert water treatment solutions.';
+$pageTitle = 'Industrial Water Treatment Contact Ontario | Eclipse Water Technologies';
+$pageDescription = 'Contact Eclipse Water Technologies for industrial water treatment, deionized water service, reverse osmosis, and process water solutions across Ontario and Toronto.';
 include 'header.php';
 
 // Handle form feedback
@@ -13,11 +13,12 @@ unset($_SESSION['contact_errors'], $_SESSION['contact_success'], $_SESSION['cont
 
   <section class="container contact-info">
     <h1>Contact Eclipse Water Technologies</h1>
-    <h2>Contact Robert Lee, CET, PMP</h2>
+    <h2>Industrial Water Treatment &amp; Deionized Water Service in Ontario</h2>
     <p><strong>Phone:</strong> <a href="tel:+16473550944">647-355-0944</a></p>
     <p><strong>Email:</strong> <a href="mailto:rlee@eclipsewatertechnologies.com">rlee@eclipsewatertechnologies.com</a></p>
     <p><strong>Location:</strong> Toronto, Ontario, Canada</p>
-    <p><strong>Title:</strong> Certified Engineering Technologist & Project Management Professional</p>
+    <p><strong>Title:</strong> Certified Engineering Technologist &amp; Project Management Professional</p>
+    <p>Need a local water treatment partner for industrial, laboratory, or healthcare operations in Ontario? We can help reduce downtime, improve system reliability, and lower exposure to cross-border delays and tariff-driven cost spikes.</p>
   </section>
 
 

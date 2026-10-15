@@ -1,20 +1,20 @@
 ﻿<?php
-$pageTitle = 'DI Tank Exchange Service | Eclipse Water Technologies';
-$pageDescription = 'DI tank exchange service for facilities that need predictable high-purity water without onsite resin regeneration. Scheduled swaps, troubleshooting, and service support.';
+$pageTitle = 'DI Tank Exchange Service Ontario | Deionized Water Service Toronto | Eclipse Water Technologies';
+$pageDescription = 'DI tank exchange service in Ontario for industrial, laboratory, and healthcare facilities that need reliable high-purity water without onsite resin regeneration or cross-border service delays.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
-  <meta name="keywords" content="DI tank exchange service, deionized water tank exchange, mixed bed tank exchange, DI service program" />
+  <meta name="keywords" content="DI tank exchange service Ontario, deionized water service Toronto, DI water service Ontario, deionized water tank exchange, mixed bed tank exchange, DI service program, local DI service Ontario" />
   <meta name="author" content="Eclipse Water Technologies" />
   <link rel="canonical" href="https://eclipsewatertechnologies.com/di-tank-exchange-service.php" />
-  <meta property="og:title" content="DI Tank Exchange Service | Eclipse Water Technologies" />
-  <meta property="og:description" content="Scheduled DI tank exchange service for predictable water quality and less operational burden." />
+  <meta property="og:title" content="DI Tank Exchange Service Ontario | Eclipse Water Technologies" />
+  <meta property="og:description" content="Local DI tank exchange service for Ontario facilities that need reliable high-purity water without onsite regeneration or cross-border service delays." />
   <meta property="og:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta property="og:url" content="https://eclipsewatertechnologies.com/di-tank-exchange-service.php" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="en_CA" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="DI Tank Exchange Service | Eclipse Water Technologies" />
-  <meta name="twitter:description" content="Scheduled DI tank exchange service for predictable water quality and less operational burden." />
+  <meta name="twitter:title" content="DI Tank Exchange Service Ontario | Eclipse Water Technologies" />
+  <meta name="twitter:description" content="Local DI tank exchange service for Ontario facilities that need reliable high-purity water without cross-border delays or tariff-driven service disruption." />
   <meta name="twitter:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta name="twitter:site" content="@EclipseWaterTech" />
   <script type="application/ld+json">
@@ -35,7 +35,7 @@ $pageExtraHead = <<<'EXTRAHEAD'
         "name": "Why do facilities choose DI tank exchange instead of onsite regeneration?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Facilities often choose exchange service to reduce onsite handling, simplify maintenance, keep water quality support predictable, and scale service more easily as demand changes."
+          "text": "Facilities often choose exchange service to reduce onsite handling, simplify maintenance, keep water quality support predictable, and reduce exposure to border delays and tariff-related cost spikes."
         }
       },
       {
@@ -54,8 +54,8 @@ include 'header.php';
 ?>
 <section class="hero hero-sub">
     <div class="container">
-      <h1>DI Tank Exchange Service</h1>
-      <p>A practical service model for facilities that need high-purity water without handling resin regeneration on site.</p>
+      <h1>DI Tank Exchange Service Ontario</h1>
+      <p>Local DI tank exchange service for industrial, laboratory, and healthcare facilities that need reliable high-purity water without the operational burden of onsite regeneration or exposure to border delays.</p>
       <a href="contact.php" class="btn">Request a Service Review</a>
     </div>
   </section>

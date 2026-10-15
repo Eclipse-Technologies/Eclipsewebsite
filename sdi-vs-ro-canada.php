@@ -157,6 +157,8 @@ include 'header.php';
         <li><a class="link" href="how-sdi-works.php">How service deionization works</a></li>
         <li><a class="link" href="sdi-tank-regeneration-frequency.php">How often should SDI tanks be regenerated?</a></li>
         <li><a class="link" href="reverse-osmosis-service-canada.php">Reverse Osmosis Service Canada</a></li>
+        <li><a class="link" href="ro-membrane-cleaning-cip.php">RO Membrane Cleaning (CIP)</a></li>
+        <li><a class="link" href="ro-troubleshooting-normalization.php">RO Troubleshooting and Maintenance</a></li>
         <li><a class="link" href="high-purity-water-systems-canada.php">High Purity Water Systems Canada</a></li>
         <li><a class="link" href="di-tank-exchange-service.php">DI Tank Exchange Service</a></li>
         <li><a class="link" href="sdi-tank-sizing.php">SDI Tank Sizing Calculator</a></li>

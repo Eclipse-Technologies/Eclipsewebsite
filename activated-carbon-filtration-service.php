@@ -1,20 +1,20 @@
 ﻿<?php
-$pageTitle = 'Activated Carbon Filtration Service | Eclipse Water Technologies';
-$pageDescription = 'Activated carbon filtration service for chlorine removal, organics reduction, pretreatment stability, and process water support across industrial and commercial systems.';
+$pageTitle = 'Activated Carbon Filtration Service Ontario | Carbon Filter Service Canada | Eclipse Water Technologies';
+$pageDescription = 'Activated carbon filtration service in Ontario for chlorine removal, organics reduction, pretreatment stability, and process water support across industrial and commercial systems.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
-  <meta name="keywords" content="activated carbon filtration service, carbon filter service, industrial carbon filtration, chlorine removal service" />
+  <meta name="keywords" content="activated carbon filtration service Ontario, carbon filter service Ontario, industrial carbon filtration, chlorine removal service, local carbon filtration service Ontario" />
   <meta name="author" content="Eclipse Water Technologies" />
   <link rel="canonical" href="https://eclipsewatertechnologies.com/activated-carbon-filtration-service.php" />
-  <meta property="og:title" content="Activated Carbon Filtration Service | Eclipse Water Technologies" />
-  <meta property="og:description" content="Activated carbon filtration service for chlorine removal and pretreatment reliability." />
+  <meta property="og:title" content="Activated Carbon Filtration Service Ontario | Eclipse Water Technologies" />
+  <meta property="og:description" content="Activated carbon filtration service for chlorine removal, organics reduction, and pretreatment reliability across Ontario operations." />
   <meta property="og:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta property="og:url" content="https://eclipsewatertechnologies.com/activated-carbon-filtration-service.php" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="en_CA" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Activated Carbon Filtration Service | Eclipse Water Technologies" />
-  <meta name="twitter:description" content="Activated carbon filtration service for chlorine removal and pretreatment reliability." />
+  <meta name="twitter:title" content="Activated Carbon Filtration Service Ontario | Eclipse Water Technologies" />
+  <meta name="twitter:description" content="Activated carbon filtration service for chlorine removal, stable pretreatment, and more predictable treatment performance in Ontario facilities." />
   <meta name="twitter:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta name="twitter:site" content="@EclipseWaterTech" />
   <script type="application/ld+json">
@@ -52,7 +52,7 @@ $pageExtraHead = <<<'EXTRAHEAD'
 EXTRAHEAD;
 include 'header.php';
 ?>
-<section class="hero hero-sub"><div class="container"><h1>Activated Carbon Filtration Service</h1><p>Carbon filtration support for chlorine removal, organics reduction, pretreatment protection, and more stable downstream performance.</p><a href="contact.php" class="btn">Request Carbon Filtration Support</a></div></section>
+<section class="hero hero-sub"><div class="container"><h1>Activated Carbon Filtration Service Ontario</h1><p>Local carbon filtration support for chlorine removal, organics reduction, pretreatment protection, and more stable downstream performance across Ontario operations.</p><a href="contact.php" class="btn">Request Carbon Filtration Support</a></div></section>
   <section class="container cards">
     <article class="card"><h3>Common use cases</h3><ul class="bullets"><li>Protecting RO membranes from chlorine exposure</li><li>Reducing organics and taste or odour issues</li><li>Supporting process water for food and manufacturing</li><li>Improving pretreatment reliability before polishing steps</li></ul></article>
     <article class="card"><h3>Service focus</h3><p>We help with media replacement intervals, vessel sizing, flow review, and how carbon filtration fits into the larger treatment train.</p><a class="link" href="reverse-osmosis-service-canada.php">See reverse osmosis support →</a></article>
@@ -69,6 +69,7 @@ include 'header.php';
       <h3>Related pages</h3>
       <ul class="bullets">
         <li><a class="link" href="reverse-osmosis-service-canada.php">Reverse Osmosis Service Canada</a></li>
+        <li><a class="link" href="ro-chemicals-antiscalant-pretreatment.php">RO Chemicals: Antiscalant, SMBS and More</a></li>
         <li><a class="link" href="industrial-water-softener-service.php">Industrial Water Softener Service</a></li>
         <li><a class="link" href="industrial-water-treatment-toronto.php">Industrial Water Treatment Toronto</a></li>
         <li><a class="link" href="contact.php">Request carbon filtration support</a></li>

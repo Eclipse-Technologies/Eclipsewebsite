@@ -195,7 +195,7 @@ include 'header.php';
       </article>
       <article class="card">
         <p><strong>How much does pharma DI water service cost in Ontario?</strong><br>
-        Service cost depends on water volume, feed TDS, and purity target. Most compounding pharmacies and small biotech labs in Ontario pay $150–$450 per tank exchange. <a class="link" href="di-water-service-pricing.php">See the full pricing guide →</a></p>
+        Service cost depends on water volume, feed TDS, and purity target. Ask for a quote for your pharmacy or lab. <a class="link" href="di-water-service-pricing.php">See the full pricing guide →</a></p>
       </article>
     </div>
   </section>

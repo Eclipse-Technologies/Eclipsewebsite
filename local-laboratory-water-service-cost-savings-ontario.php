@@ -55,10 +55,7 @@ include 'header.php';
 <section class="hero hero-sub">
     <div class="container">
       <h1>Local Laboratory Water Service Can Reduce Cost and Delay Risk</h1>
-      <p>For Ontario laboratories, local DI and high purity water support can improve response speed, reduce cross-border exposure, and make service planning more predictable.</p>
-      <a href="contact.php" class="btn">Request a Lab Service Review</a>
-    </div>
-  </section>
+      <p>For Ontario laboratories, local DI and high purity water support can improve response speed, reduce cross-border exposure, and make service planning more predictable. Many competing programs still rely on regenerated resin processed in Indiana, which adds transportation, customs, and planning exposure that local Ontario support can avoid.</p>
 
   <section class="container cards">
     <article class="card">

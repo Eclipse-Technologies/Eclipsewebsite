@@ -1,25 +1,25 @@
 ﻿<?php
-$pageTitle = 'Water Treatment Services | Canadian DI Systems, Softeners & Filtration';
-$pageDescription = "Explore Eclipse Water Technologies' Canadian water treatment services: DI systems, water softeners, and activated carbon filtration. No tariffs, stable pricing.";
+$pageTitle = 'Industrial Water Treatment Services Ontario | DI Water, RO, Softeners & Filtration | Eclipse Water Technologies';
+$pageDescription = 'Local industrial water treatment, deionized water service, reverse osmosis, water softeners, and activated carbon filtration for Ontario facilities. Lower border-delay risk and more predictable service for industrial, laboratory, and healthcare operations.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <link rel="canonical" href="https://eclipsewatertechnologies.com/services.php" />
-  <meta property="og:title" content="Water Treatment Services | Eclipse Water Technologies" />
-  <meta property="og:description" content="DI systems, water softeners, RO, and activated carbon filtration for Canadian industrial and laboratory facilities. No tariffs, stable pricing." />
+  <meta property="og:title" content="Industrial Water Treatment Services Ontario | Eclipse Water Technologies" />
+  <meta property="og:description" content="DI systems, deionized water service, water softeners, reverse osmosis, and activated carbon filtration for Ontario industrial and laboratory facilities." />
   <meta property="og:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta property="og:url" content="https://eclipsewatertechnologies.com/services.php" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="en_CA" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Water Treatment Services | Eclipse Water Technologies" />
-  <meta name="twitter:description" content="DI systems, softeners, RO, and filtration for Canadian facilities. No tariffs, transparent pricing." />
+  <meta name="twitter:title" content="Industrial Water Treatment Services Ontario | Eclipse Water Technologies" />
+  <meta name="twitter:description" content="DI systems, water softeners, RO, and filtration for Ontario facilities. Local service with lower tariff and logistics risk." />
   <meta name="twitter:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta name="twitter:site" content="@EclipseWaterTech" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "Water Treatment Services",
+    "name": "Industrial Water Treatment Services",
     "provider": {
       "@type": "LocalBusiness",
       "name": "Eclipse Water Technologies",
@@ -33,7 +33,7 @@ $pageExtraHead = <<<'EXTRAHEAD'
       }
     },
     "areaServed": { "@type": "AdministrativeArea", "name": "Ontario, Canada" },
-    "description": "DI tank exchange service, water softeners, reverse osmosis, and activated carbon filtration for industrial and laboratory facilities across Ontario."
+    "description": "DI tank exchange service, deionized water service, water softeners, reverse osmosis, and activated carbon filtration for industrial, laboratory, and healthcare facilities across Ontario."
   }
   </script>
 EXTRAHEAD;
@@ -42,8 +42,8 @@ include 'header.php';
 
   <section class="hero hero-sub">
     <div class="section-inner">
-      <h1>Water Treatment Services</h1>
-      <p>Proudly Canadian. No tariffs. Stable pricing. Expert service across DI systems, softeners, filtration, and more.</p>
+      <h1>Industrial Water Treatment Services Ontario</h1>
+      <p>Local DI water service, reverse osmosis, softeners, and filtration for industrial, laboratory, and healthcare facilities across Ontario. Lower exposure to border delays, tariff risk, and supply-chain disruption, with regeneration handled locally to keep service more predictable and resilient.</p>
       <a href="contact.php" class="btn">Request a Quote</a>
     </div>
   </section>
@@ -132,6 +132,8 @@ include 'header.php';
       <ul class="bullets">
         <li><a class="link" href="activated-carbon-filtration-service.php">Activated Carbon Filtration Service</a></li>
         <li><a class="link" href="reverse-osmosis-service-canada.php">Reverse Osmosis Service Canada</a></li>
+        <li><a class="link" href="ro-membrane-cleaning-cip.php">RO Membrane Cleaning (CIP)</a></li>
+        <li><a class="link" href="ro-chemicals-antiscalant-pretreatment.php">RO Chemicals: Antiscalant, SMBS and More</a></li>
       </ul>
       <a class="link" href="contact.php">Need a recommendation? Talk to us →</a>
     </article>
@@ -145,8 +147,8 @@ include 'header.php';
 
   <section class="strip cta-strip">
     <div class="container">
-      <h2>Not sure which service fits your system?</h2>
-      <p>We’ll help you choose the right configuration based on flow rate, purity level, and application.</p>
+      <h2>Need the right water treatment setup for your facility?</h2>
+      <p>We’ll help you choose the best configuration based on flow rate, purity level, operating conditions, and service goals.</p>
       <a href="contact.php" class="btn">Request a Quote</a>
     </div>
   </section>

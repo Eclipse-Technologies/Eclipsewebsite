@@ -146,7 +146,7 @@ include 'header.php';
       </article>
       <article class="card">
         <p><strong>How much does DI water service cost for a food facility?</strong><br>
-        Cost depends on water volume, feed TDS, and service frequency. Most small-to-medium food processors in Ontario pay $200–$600 per tank exchange. <a class="link" href="di-water-service-pricing.php">See the full pricing guide →</a></p>
+        Cost depends on water volume, feed TDS, and service frequency. Ask for a quote for your facility. <a class="link" href="di-water-service-pricing.php">See the full pricing guide →</a></p>
       </article>
     </div>
   </section>

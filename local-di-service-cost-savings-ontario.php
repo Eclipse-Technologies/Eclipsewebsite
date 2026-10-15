@@ -55,7 +55,7 @@ include 'header.php';
 <section class="hero hero-sub">
     <div class="container">
       <h1>Local DI Water Service Can Lower Total Cost and Risk</h1>
-      <p>For Ontario facilities, a local service model can improve price stability, water quality support, and response time by reducing cross-border complexity.</p>
+      <p>For Ontario facilities, a local service model can improve price stability, water quality support, and response time by reducing cross-border complexity. Many competing resin programs still rely on regenerated resin processed in Indiana, which adds transportation, customs, and planning exposure that local Ontario service can avoid.</p>
       <a href="contact.php" class="btn">Request a Local Service Review</a>
     </div>
   </section>

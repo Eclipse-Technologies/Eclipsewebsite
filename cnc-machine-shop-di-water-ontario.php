@@ -179,7 +179,7 @@ include 'header.php';
       </article>
       <article class="card">
         <p><strong>How much does DI water service cost for a machine shop?</strong><br>
-        Most small-to-medium CNC shops in Ontario pay $150–$500 per tank exchange depending on tank size and feed water quality. <a class="link" href="di-water-service-pricing.php">See the full pricing guide →</a></p>
+        Pricing depends on tank size, feed water quality, and service frequency. Ask for a quote for your shop. <a class="link" href="di-water-service-pricing.php">See the full pricing guide →</a></p>
       </article>
     </div>
   </section>
