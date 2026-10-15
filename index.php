@@ -55,7 +55,7 @@ include 'header.php';
         <a href="services.php" class="btn btn-outline" style="font-size:1.05rem;padding:0.75em 2.2em;">Explore Services</a>
       </div>
       <div class="hero-contact" style="margin-top:1.2em;">
-        <span>Call us: <a href="tel:+16473550944"><strong>647-355-0944</strong></a></span>
+        <span style="color:#003366;">Call us: <a href="tel:+16473550944"><strong>647-355-0944</strong></a></span>
         &nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="mailto:rlee@eclipsewatertechnologies.com">rlee@eclipsewatertechnologies.com</a>
       </div>
@@ -109,7 +109,6 @@ include 'header.php';
           <h3>&#128204; Reverse Osmosis</h3>
           <p>High-recovery RO systems for pre-treatment and standalone purification across industrial and commercial applications.</p>
           <a href="reverse-osmosis-service-canada.php" class="link">Learn more &rarr;</a>
-          <br><a href="ro-membrane-cleaning-cip.php" class="link">RO membrane cleaning (CIP) &rarr;</a>
         </div>
         <div class="home-card">
           <h3>&#9878;&#65039; Activated Carbon</h3>
