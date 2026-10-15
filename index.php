@@ -54,11 +54,6 @@ include 'header.php';
         <a href="contact.php" class="btn btn-white" style="font-size:1.05rem;padding:0.75em 2.2em;">Request a Quote</a>
         <a href="services.php" class="btn btn-outline" style="font-size:1.05rem;padding:0.75em 2.2em;">Explore Services</a>
       </div>
-      <div class="hero-contact" style="margin-top:1.2em;">
-        <span style="color:#003366;">Call us: <a href="tel:+16473550944"><strong>647-355-0944</strong></a></span>
-        &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="mailto:rlee@eclipsewatertechnologies.com">rlee@eclipsewatertechnologies.com</a>
-      </div>
     </div>
   </section>
 
@@ -69,7 +64,7 @@ include 'header.php';
         <span class="benefit-icon">🍁</span>
         <div>
           <strong>Proudly Canadian</strong>
-          <p>All regeneration done locally in Ontario &mdash; no border delays, no U.S. tariff exposure, and no dependence on out-of-province resin cycles such as Indiana-based regeneration logistics.</p>
+          <p>All regeneration done locally in Ontario. No border delays and no U.S. tariff exposure.</p>
         </div>
       </div>
       <div class="benefit-item">
@@ -124,28 +119,12 @@ include 'header.php';
   <section class="home-section home-section--alt">
     <div class="section-inner">
       <h2 class="section-heading">Industries We Serve</h2>
-      <p class="section-sub">High-purity water is critical across many sectors. We understand the compliance, uptime, and quality requirements of each.</p>
-      <div class="home-cards home-cards--4">
-        <div class="home-card home-card--plain">
-          <h3>&#127981; Manufacturing</h3>
-          <p>Process water, rinse lines, and cooling for continuous production environments.</p>
-          <a href="local-manufacturing-water-service-cost-savings-ontario.php" class="link">See case study &rarr;</a>
-        </div>
-        <div class="home-card home-card--plain">
-          <h3>&#128300; Laboratories</h3>
-          <p>ASTM Type I &amp; II water for analytical chemistry, biotech, and pharmaceutical research.</p>
-          <a href="laboratoryusecase.php" class="link">See case study &rarr;</a>
-        </div>
-        <div class="home-card home-card--plain">
-          <h3>&#127973; Healthcare</h3>
-          <p>Sterilization rinse water, autoclave feed, and lab prep for hospitals and diagnostic facilities.</p>
-          <a href="hospitals.php" class="link">See case study &rarr;</a>
-        </div>
-        <div class="home-card home-card--plain">
-          <h3>&#128296; Metal Finishing</h3>
-          <p>DI water for electroplating and surface treatment with optimized regeneration scheduling.</p>
-          <a href="metalfinishing.php" class="link">See case study &rarr;</a>
-        </div>
+      <p class="section-sub">Compliance, uptime and quality requirements vary by sector. See how we support yours.</p>
+      <div class="industry-links">
+        <a href="local-manufacturing-water-service-cost-savings-ontario.php">&#127981; Manufacturing</a>
+        <a href="laboratoryusecase.php">&#128300; Laboratories</a>
+        <a href="hospitals.php">&#127973; Healthcare</a>
+        <a href="metalfinishing.php">&#128296; Metal Finishing</a>
       </div>
     </div>
   </section>

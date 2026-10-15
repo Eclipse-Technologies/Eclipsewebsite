@@ -634,3 +634,8 @@ a.home-card--link h3 {
 .featured-cards.is-fading .home-card { opacity: 0; }
 .featured-footer { display: flex; justify-content: center; margin-top: 1.5rem; }
 @media (prefers-reduced-motion: reduce) { .featured-cards .home-card { transition: none; } }
+
+/* Home industries link row */
+.industry-links { display:flex; flex-wrap:wrap; justify-content:center; gap:0.8rem; margin-top:1.2rem; }
+.industry-links a { background:#fff; border:1px solid #cfdde8; border-radius:999px; padding:0.6rem 1.3rem; color:#003366; font-weight:600; text-decoration:none; box-shadow:0 2px 8px rgba(12,45,74,0.06); }
+.industry-links a:hover, .industry-links a:focus { border-color:#1e8a9d; color:#1e8a9d; }
