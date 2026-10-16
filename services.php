@@ -137,7 +137,7 @@ include 'header.php';
       <p>Targeted pages for the systems buyers search for most often.</p>
       <ul class="bullets">
         <li><a class="link" href="activated-carbon-filtration-service.php">Activated Carbon Filtration Service</a></li>
-        <li><a class="link" href="reverse-osmosis-service-canada.php">Reverse Osmosis Service Canada</a></li>
+        <li><a class="link" href="reverse-osmosis-service-canada.php">Industrial &amp; Commercial RO Service Ontario</a></li>
         <li><a class="link" href="ro-membrane-cleaning-cip.php">RO Membrane Cleaning (CIP)</a></li>
         <li><a class="link" href="ro-chemicals-antiscalant-pretreatment.php">RO Chemicals: Antiscalant, SMBS and More</a></li>
       </ul>
