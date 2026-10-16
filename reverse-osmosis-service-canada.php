@@ -27,14 +27,70 @@ $pageExtraHead = <<<'EXTRAHEAD'
   <meta name="twitter:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta name="twitter:site" content="@EclipseWaterTech" />
 EXTRAHEAD;
+$pageExtraHead .= <<<'ROSCHEMA'
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://eclipsewatertechnologies.com/reverse-osmosis-service-canada.php#service",
+    "name": "Industrial and Commercial Reverse Osmosis Service",
+    "serviceType": [
+      "Industrial reverse osmosis troubleshooting",
+      "RO membrane cleaning and CIP",
+      "RO performance review and normalization",
+      "RO pretreatment and chemical dosing review",
+      "RO membrane replacement planning"
+    ],
+    "provider": {
+      "@type": "Organization",
+      "@id": "https://eclipsewatertechnologies.com/#organization",
+      "name": "Eclipse Water Technologies",
+      "url": "https://eclipsewatertechnologies.com",
+      "telephone": "+1-647-355-0944"
+    },
+    "areaServed": [
+      { "@type": "AdministrativeArea", "name": "Ontario, Canada" },
+      { "@type": "Country", "name": "Canada" }
+    ],
+    "description": "Reverse osmosis service for industrial, commercial, and institutional process-water and high-purity systems. Residential drinking-water, under-sink, and whole-home RO systems are not served."
+  }
+  </script>
+ROSCHEMA;
 $pageExtraHead .= faqSchemaScript($faqs);
 include 'header.php';
 ?>
 <section class="hero hero-sub"><div class="container"><h1>Industrial &amp; Commercial Reverse Osmosis (RO) Service in Ontario</h1><p>For industrial, commercial, and institutional facilities operating process-water or high-purity RO systems. Service includes CIP and membrane cleaning, dosing review, troubleshooting, performance normalization, and replacement planning across Ontario, with Canada-wide project support.</p><p><strong>ICI systems only:</strong> Eclipse does not provide residential drinking-water, under-sink, or whole-home RO services.</p><a href="contact.php" class="btn">Request ICI RO Support</a></div></section>
   <section class="container">
-    <h2>RO support for facilities and process-water systems</h2>
-    <p>This service is intended for facility operators, plant managers, maintenance teams, and engineering or water-treatment professionals responsible for commercial or industrial equipment. We review operating data and treatment-train conditions to help identify performance issues such as declining permeate flow, increased pressure, or changing permeate quality.</p>
-    <p>When you contact us, include your facility location, application, system details, feed-water information, recent operating trends, and the support you need. This helps us assess the appropriate technical and service approach for your site.</p>
+    <h2>Industrial and commercial RO for process water</h2>
+    <p>Reverse osmosis (RO) uses pressure to separate water from many dissolved constituents. In industrial and institutional treatment trains, RO may be used for process water, utility or boiler-feed pretreatment, rinse applications, or as pretreatment ahead of deionization. The suitable configuration depends on feed-water chemistry, required water quality, demand, recovery objectives, and the equipment already at the facility.</p>
+    <p>This service is for facility operators, plant managers, maintenance teams, and engineering or water-treatment professionals responsible for commercial or industrial equipment. It is not a residential drinking-water or whole-home system service.</p>
+  </section>
+
+  <section class="container">
+    <h2>How we assess an RO performance issue</h2>
+    <p>A symptom alone rarely identifies the cause. Lower permeate production, rising pressure, or changing permeate conductivity can have different causes, so assessment starts with the operating conditions and history rather than assuming that a membrane clean or replacement is the answer.</p>
+    <ol>
+      <li><strong>Define the change:</strong> When did performance begin to shift, and what changed in production demand, feed water, operating schedule, or maintenance?</li>
+      <li><strong>Review system readings:</strong> Compare feed, concentrate, and permeate flows; pressures; temperature; and feed/permeate conductivity where available.</li>
+      <li><strong>Check pretreatment and dosing:</strong> Review cartridge-filter pressure drop, softening or carbon performance, chemical feed, and oxidant control as applicable to the system.</li>
+      <li><strong>Compare like with like:</strong> Account for operating conditions and use normalized performance data where the information and system design allow, before deciding whether cleaning is indicated.</li>
+      <li><strong>Plan the next step:</strong> Based on the evidence, determine whether troubleshooting, cleaning, pretreatment correction, or membrane replacement planning is appropriate.</li>
+    </ol>
+    <p>For common symptoms and maintenance considerations, see the <a href="ro-troubleshooting-normalization.php">industrial RO troubleshooting guide</a>. Cleaning guidance is covered in the <a href="ro-membrane-cleaning-cip.php">RO membrane cleaning (CIP) guide</a>.</p>
+  </section>
+
+  <section class="container">
+    <h2>What to include in an industrial RO service request</h2>
+    <p>For facilities across Ontario and Canada, these details help us understand the system and discuss a suitable service approach:</p>
+    <ul>
+      <li>Facility city or region and the industrial, commercial, or institutional application</li>
+      <li>RO manufacturer/model, membrane type, number of stages, and design capacity, if known</li>
+      <li>Feed-water source and a recent water analysis, if available</li>
+      <li>Recent feed, concentrate, and permeate flow; operating pressures; temperature; and conductivity readings</li>
+      <li>Relevant pretreatment, chemical dosing, alarms, maintenance, and cleaning history</li>
+      <li>The change you are seeing and whether it affects production, downstream treatment, or required water quality</li>
+    </ul>
+    <p>Do not delay urgent safety or plant-response procedures while collecting data. Follow your facility's operating and chemical-handling requirements.</p>
   </section>
   <section class="container cards">
     <article class="card"><h3>What we support</h3><ul class="bullets"><li>RO CIP and membrane cleaning, disinfection and storage preservation</li><li>Performance review and normalization</li><li>Antiscalant, dechlorination (sodium metabisulfite) and pH dosing review</li><li>Cartridge filter and pretreatment review</li><li>Pump, instrument and interlock checks</li><li>Membrane replacement and housing inspection</li></ul></article>

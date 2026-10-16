@@ -112,9 +112,9 @@ include 'header.php';
           <a href="industrial-water-softener-service.php" class="link">Learn more &rarr;</a>
         </div>
         <div class="home-card">
-          <h3>&#128204; Reverse Osmosis</h3>
-          <p>High-recovery RO systems for pre-treatment and standalone purification across industrial and commercial applications.</p>
-          <a href="reverse-osmosis-service-canada.php" class="link">Learn more &rarr;</a>
+          <h3>&#128204; Industrial &amp; Commercial RO</h3>
+          <p>RO process-water service, membrane cleaning, dosing review, and troubleshooting for industrial, commercial, and institutional facilities.</p>
+          <a href="reverse-osmosis-service-canada.php" class="link">Industrial &amp; commercial RO service &rarr;</a>
         </div>
         <div class="home-card">
           <h3>&#9878;&#65039; Activated Carbon</h3>
