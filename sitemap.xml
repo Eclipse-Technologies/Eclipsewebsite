@@ -181,6 +181,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://eclipsewatertechnologies.com/sdi-tank-sizing.php</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://eclipsewatertechnologies.com/di-water-service-pricing.php</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -244,11 +250,5 @@
     <loc>https://eclipsewatertechnologies.com/project-management-service.php</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eclipsewatertechnologies.com/sdi-tank-sizing.php</loc>
-    <lastmod>2026-10-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
 </urlset>

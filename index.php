@@ -26,10 +26,12 @@ $pageExtraHead = '
   {
     "@context": "https://schema.org",
     "@type": ["LocalBusiness", "Organization"],
+    "@id": "https://eclipsewatertechnologies.com/#organization",
     "name": "Eclipse Water Technologies",
     "image": "https://eclipsewatertechnologies.com/Eclipselogo2026.png",
     "url": "https://eclipsewatertechnologies.com",
     "telephone": "+1-647-355-0944",
+    "email": "rlee@eclipsewatertechnologies.com",
     "address": {
       "@type": "PostalAddress",
       "postalCode": "M1S 3A3",
@@ -38,7 +40,15 @@ $pageExtraHead = '
       "addressCountry": "CA"
     },
     "description": "Proudly Canadian provider of industrial water treatment, deionized water service, water softeners, and activated carbon filtration for industrial, laboratory, and healthcare clients. Local service with no cross-border tariff exposure and faster response times.",
-    "areaServed": { "@type": "Country", "name": "Canada" }
+    "sameAs": [
+      "https://www.facebook.com/eclipsewatertechnologies",
+      "https://www.instagram.com/eclipsewatertechnologies",
+      "https://www.linkedin.com/company/eclipse-water-technologies"
+    ],
+    "areaServed": [
+      { "@type": "AdministrativeArea", "name": "Ontario" },
+      { "@type": "Country", "name": "Canada" }
+    ]
   }
   </script>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -48,7 +58,7 @@ include 'header.php';
   <!-- HERO -->
   <section class="hero hero-home">
     <div class="section-inner" style="text-align:center;max-width:680px;">
-      <h1>Industrial Water Treatment Ontario &amp; Deionized Water Service Toronto</h1>
+      <h1>Industrial Water Treatment &amp; Deionized Water Service in Ontario</h1>
       <p style="font-size:1.15rem;margin-top:0.6em;margin-bottom:1.4em;">Proudly Canadian. Local DI water service, reverse osmosis, water softeners, filtration, and process water support for Ontario facilities that need dependable performance and lower exposure to border delays and tariff-driven cost volatility.</p>
       <div class="hero-ctas">
         <a href="contact.php" class="btn btn-white" style="font-size:1.05rem;padding:0.75em 2.2em;">Request a Quote</a>
