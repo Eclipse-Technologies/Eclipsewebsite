@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/guides-data.php';
-$pageTitle = 'Reverse Osmosis Service Ontario | RO CIP & Membrane Cleaning | Eclipse Water Technologies';
-$pageDescription = 'Reverse osmosis service in Ontario: RO CIP and membrane cleaning, antiscalant and chemical dosing review, cartridge filters, pumps, normalization, troubleshooting and membrane replacement.';
+$pageTitle = 'Industrial & Commercial RO Service Ontario | Eclipse Water Technologies';
+$pageDescription = 'Industrial, commercial, and institutional reverse osmosis service across Ontario and Canada: RO CIP, membrane cleaning, dosing review, troubleshooting, normalization, and replacement planning. Not residential RO.';
 $faqs = [
   ['What does reverse osmosis service usually include?', 'It typically includes membrane cleaning (CIP) and disinfection, performance review and normalization, cartridge filter and pretreatment checks, chemical dosing review, troubleshooting, and membrane replacement planning.'],
   ['What is RO CIP and when is it needed?', 'RO CIP (clean-in-place) is a controlled chemical cleaning of installed membranes to remove scale, metal deposits, organics, and biological growth. It is usually needed when output drops, pressure rises, or permeate quality slips, and the cause should be identified first so the right approach is used.'],
@@ -12,25 +12,30 @@ $faqs = [
 ];
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
-  <meta name="keywords" content="reverse osmosis service Ontario, RO system service Ontario, RO CIP, RO membrane cleaning, RO clean in place, antiscalant, sodium metabisulfite, RO cartridge filters, industrial RO service, membrane replacement service, RO troubleshooting" />
+  <meta name="keywords" content="industrial reverse osmosis service Ontario, commercial RO service Ontario, institutional RO service Canada, process water RO, industrial RO CIP, RO membrane cleaning, RO troubleshooting, membrane replacement planning" />
   <meta name="author" content="Eclipse Water Technologies" />
   <link rel="canonical" href="https://eclipsewatertechnologies.com/reverse-osmosis-service-canada.php" />
-  <meta property="og:title" content="Reverse Osmosis Service Ontario | RO CIP and Membrane Cleaning" />
-  <meta property="og:description" content="RO CIP, membrane cleaning, chemical dosing review, troubleshooting and replacement for Ontario industrial and high-purity water systems." />
+  <meta property="og:title" content="Industrial & Commercial RO Service Ontario | Eclipse Water Technologies" />
+  <meta property="og:description" content="Industrial, commercial, and institutional RO service for process-water and high-purity systems across Ontario and Canada. Not residential RO." />
   <meta property="og:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta property="og:url" content="https://eclipsewatertechnologies.com/reverse-osmosis-service-canada.php" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="en_CA" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Reverse Osmosis Service Ontario | RO CIP and Membrane Cleaning" />
-  <meta name="twitter:description" content="RO CIP, membrane cleaning, chemical dosing review, troubleshooting and replacement for Ontario industrial and high-purity water systems." />
+  <meta name="twitter:title" content="Industrial & Commercial RO Service Ontario | Eclipse Water Technologies" />
+  <meta name="twitter:description" content="RO CIP, membrane cleaning, dosing review, and troubleshooting for industrial, commercial, and institutional process-water systems. Not residential RO." />
   <meta name="twitter:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta name="twitter:site" content="@EclipseWaterTech" />
 EXTRAHEAD;
 $pageExtraHead .= faqSchemaScript($faqs);
 include 'header.php';
 ?>
-<section class="hero hero-sub"><div class="container"><h1>Reverse Osmosis Service Ontario</h1><p>Local RO service support for CIP and membrane cleaning, chemical dosing review, cartridge filters, troubleshooting, replacement, and performance recovery across Ontario. Faster response times and lower exposure to cross-border delays and tariff-related cost volatility.</p><a href="contact.php" class="btn">Request RO Support</a></div></section>
+<section class="hero hero-sub"><div class="container"><h1>Industrial &amp; Commercial Reverse Osmosis (RO) Service in Ontario</h1><p>For industrial, commercial, and institutional facilities operating process-water or high-purity RO systems. Service includes CIP and membrane cleaning, dosing review, troubleshooting, performance normalization, and replacement planning across Ontario, with Canada-wide project support.</p><p><strong>ICI systems only:</strong> Eclipse does not provide residential drinking-water, under-sink, or whole-home RO services.</p><a href="contact.php" class="btn">Request ICI RO Support</a></div></section>
+  <section class="container">
+    <h2>RO support for facilities and process-water systems</h2>
+    <p>This service is intended for facility operators, plant managers, maintenance teams, and engineering or water-treatment professionals responsible for commercial or industrial equipment. We review operating data and treatment-train conditions to help identify performance issues such as declining permeate flow, increased pressure, or changing permeate quality.</p>
+    <p>When you contact us, include your facility location, application, system details, feed-water information, recent operating trends, and the support you need. This helps us assess the appropriate technical and service approach for your site.</p>
+  </section>
   <section class="container cards">
     <article class="card"><h3>What we support</h3><ul class="bullets"><li>RO CIP and membrane cleaning, disinfection and storage preservation</li><li>Performance review and normalization</li><li>Antiscalant, dechlorination (sodium metabisulfite) and pH dosing review</li><li>Cartridge filter and pretreatment review</li><li>Pump, instrument and interlock checks</li><li>Membrane replacement and housing inspection</li></ul></article>
     <article class="card"><h3>Why RO systems drift</h3><p>Fouling, scaling, oxidant exposure, unstable pretreatment, and poor monitoring can all reduce flow and rejection over time.</p><a class="link" href="ro-troubleshooting-normalization.php">RO troubleshooting guide →</a></article>
