@@ -1,18 +1,18 @@
 ﻿<?php
 $pageTitle = 'Industrial Water Treatment Services Ontario | DI Water, RO, Softeners & Filtration | Eclipse Water Technologies';
-$pageDescription = 'Local industrial water treatment, deionized water service, reverse osmosis, water softeners, and activated carbon filtration for Ontario facilities. Lower border-delay risk and more predictable service for industrial, laboratory, and healthcare operations.';
+$pageDescription = 'Industrial water treatment across Canada, including DI water, reverse osmosis, rentals, and 24/7 service response. Direct technical support from a CET and PMP.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <link rel="canonical" href="https://eclipsewatertechnologies.com/services.php" />
   <meta property="og:title" content="Industrial Water Treatment Services Ontario | Eclipse Water Technologies" />
-  <meta property="og:description" content="DI systems, deionized water service, water softeners, reverse osmosis, and activated carbon filtration for Ontario industrial and laboratory facilities." />
+  <meta property="og:description" content="Industrial water treatment across Canada, including DI water, reverse osmosis, rentals, and 24/7 service response—with direct technical support from a CET and PMP." />
   <meta property="og:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta property="og:url" content="https://eclipsewatertechnologies.com/services.php" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="en_CA" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Industrial Water Treatment Services Ontario | Eclipse Water Technologies" />
-  <meta name="twitter:description" content="DI systems, water softeners, RO, and filtration for Ontario facilities. Local service with lower tariff and logistics risk." />
+  <meta name="twitter:description" content="Industrial water treatment across Canada, with rentals, 24/7 service response, and direct technical support from a CET and PMP." />
   <meta name="twitter:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta name="twitter:site" content="@EclipseWaterTech" />
   <script type="application/ld+json">
@@ -32,8 +32,8 @@ $pageExtraHead = <<<'EXTRAHEAD'
         "addressCountry": "CA"
       }
     },
-    "areaServed": { "@type": "AdministrativeArea", "name": "Ontario, Canada" },
-    "description": "DI tank exchange service, deionized water service, water softeners, reverse osmosis, and activated carbon filtration for industrial, laboratory, and healthcare facilities across Ontario."
+    "areaServed": { "@type": "Country", "name": "Canada" },
+    "description": "DI tank exchange service, deionized water service, water softeners, reverse osmosis, rentals, and activated carbon filtration for industrial, laboratory, and healthcare facilities across Canada, with 24/7 service response."
   }
   </script>
 EXTRAHEAD;
@@ -43,7 +43,7 @@ include 'header.php';
   <section class="hero hero-sub">
     <div class="section-inner">
       <h1>Industrial Water Treatment Services Ontario</h1>
-      <p>Local DI water service, reverse osmosis, softeners, and filtration for industrial, laboratory, and healthcare facilities across Ontario. Lower exposure to border delays, tariff risk, and supply-chain disruption, with regeneration handled locally to keep service more predictable and resilient.</p>
+      <p>Industrial water treatment for facilities across Canada, including DI water service, reverse osmosis, softeners, filtration, and rental options. Get 24/7 service response and work directly with Robert Lee, CET, PMP—from technical questions and system selection through installation, commissioning, and ongoing service. Local DI regeneration can help reduce dependence on cross-border tank logistics.</p>
       <a href="contact.php" class="btn">Request a Quote</a>
     </div>
   </section>
@@ -54,8 +54,10 @@ include 'header.php';
       <p>Proactive service programs to reduce total cost of ownership and improve system uptime, efficiency, and sustainability.</p>
       <ul>
         <li>Short and long-term service agreements</li>
+        <li>24/7 service response</li>
         <li>On-site troubleshooting and process analysis</li>
         <li>Rigging, installation, commissioning, and training</li>
+        <li>Water-treatment rental options</li>
         <li>Remote monitoring and telemetry</li>
         <li>Membrane cleaning, rebedding, and cartridge changes</li>
       </ul>
@@ -102,10 +104,38 @@ include 'header.php';
     </article>
   </section>
 
+  <section class="container">
+    <h2>A focused alternative to the large-provider model</h2>
+    <p>Large suppliers can offer broad portfolios and extensive service networks. Eclipse takes a focused, direct approach: practical water-treatment expertise, a clear technical point of contact, and service planned around your facility and application.</p>
+    <div class="cards">
+      <article class="card">
+        <h3>Direct technical accountability</h3>
+        <p>Speak directly with Robert Lee, CET, PMP, for technical questions, quotes, and service inquiries—without losing the technical context as your needs move from assessment to ongoing support.</p>
+        <a class="link" href="about.php">Meet your water solutions partner →</a>
+      </article>
+      <article class="card">
+        <h3>Connected treatment and service</h3>
+        <p>Get guidance across DI water, service deionization, reverse osmosis, softening, filtration, and membrane service. Installation, commissioning, troubleshooting, and maintenance are part of the service scope.</p>
+        <a class="link" href="contact.php">Discuss your system →</a>
+      </article>
+      <article class="card">
+        <h3>National coverage, local DI support</h3>
+        <p>Service support is available across Canada, with local DI regeneration and tank service that can reduce reliance on cross-border logistics. Coverage and arrangements are planned for each facility and application.</p>
+        <a class="link" href="service-areas.php">Check service areas →</a>
+      </article>
+      <article class="card">
+        <h3>Results you can evaluate</h3>
+        <p>Review examples from laboratory, metal-finishing, and hospital applications to see the kinds of water-treatment challenges Eclipse has addressed.</p>
+        <a class="link" href="case-studies.php">View case studies →</a>
+      </article>
+    </div>
+    <p>When comparing proposals, look beyond equipment price: clarify what service is included, how performance will be assessed, where DI regeneration takes place, and who will own technical follow-up.</p>
+  </section>
+
   <section class="container cards">
     <article class="card">
-      <h3>Ontario and Canada service coverage</h3>
-      <p>We support facilities across Ontario and Canada, with service arrangements planned around each location and application.</p>
+      <h3>Canada-wide service coverage</h3>
+      <p>We support facilities across Canada, with 24/7 service response and arrangements planned around each location and application.</p>
       <a class="link" href="service-areas.php">View service areas →</a>
     </article>
 
