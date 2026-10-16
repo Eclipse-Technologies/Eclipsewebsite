@@ -45,8 +45,8 @@ $guides = [
     ['title' => 'DI Water for Pharmaceutical & Biotech', 'cat' => 'industry', 'url' => 'pharmaceutical-di-water-ontario.php', 'cta' => 'Pharma & biotech guide',
      'desc' => 'USP Purified Water-grade DI for compounding, biotech research and analytical labs.', 'featured' => false],
 
-    ['title' => 'DI Tank Exchange Service', 'cat' => 'services', 'url' => 'di-tank-exchange-service.php', 'cta' => 'Learn about the service',
-     'desc' => 'How tank exchange works: scheduling, connections, monitoring and what to expect from a service program.', 'featured' => false],
+    ['title' => 'Service Deionization (SDI) & DI Tank Exchange', 'cat' => 'services', 'url' => 'di-tank-exchange-service.php', 'cta' => 'Explore DI exchange service',
+     'desc' => 'Industrial service deionization using off-site regenerated mixed-bed tanks, scheduled exchanges, and service planning for Ontario facilities.', 'featured' => false],
     ['title' => 'Reverse Osmosis Service Canada', 'cat' => 'ro', 'url' => 'reverse-osmosis-service-canada.php', 'cta' => 'RO service',
      'desc' => 'RO CIP and membrane cleaning, chemical dosing, prefilters, pumps, replacement and troubleshooting for industrial and laboratory systems.', 'featured' => false],
     ['title' => 'RO Membrane Cleaning (CIP)', 'cat' => 'ro', 'url' => 'ro-membrane-cleaning-cip.php', 'cta' => 'Read the CIP guide',
