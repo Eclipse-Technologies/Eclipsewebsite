@@ -57,6 +57,8 @@ $guides = [
      'desc' => 'Common RO symptoms, why they are easy to misread, and what preventive maintenance covers.', 'featured' => false],
     ['title' => 'Commercial & Industrial RO System Planning', 'cat' => 'ro', 'url' => 'industrial-ro-system-planning.php', 'cta' => 'Read the planning guide',
      'desc' => 'Evaluate water analysis, capacity, pretreatment, recovery, downstream treatment, lifecycle costs, and service scope for facility RO projects.', 'featured' => false],
+    ['title' => 'Industrial Reverse Osmosis Systems', 'cat' => 'ro', 'url' => 'industrial-reverse-osmosis-systems.php', 'cta' => 'Explore industrial RO systems',
+     'desc' => 'Engineering, system design, equipment supply, installation, start-up, and ongoing maintenance for facility RO projects.', 'featured' => false],
     ['title' => 'Activated Carbon Filtration', 'cat' => 'services', 'url' => 'activated-carbon-filtration-service.php', 'cta' => 'Carbon filtration',
      'desc' => 'Chlorine removal, resin protection and pretreatment reliability upstream of your DI or RO system.', 'featured' => false],
     ['title' => 'Industrial Water Softener Service', 'cat' => 'services', 'url' => 'industrial-water-softener-service.php', 'cta' => 'Softener service',
