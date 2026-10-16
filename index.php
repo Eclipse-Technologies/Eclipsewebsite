@@ -113,8 +113,9 @@ include 'header.php';
         </div>
         <div class="home-card">
           <h3>&#128204; Industrial &amp; Commercial RO</h3>
-          <p>RO process-water service, membrane cleaning, dosing review, and troubleshooting for industrial, commercial, and institutional facilities.</p>
-          <a href="reverse-osmosis-service-canada.php" class="link">Industrial &amp; commercial RO service &rarr;</a>
+          <p>Industrial RO engineering, system design, equipment supply, installation, start-up, and ongoing maintenance for process-water applications.</p>
+          <a href="industrial-reverse-osmosis-systems.php" class="link">Industrial RO systems &rarr;</a><br>
+          <a href="reverse-osmosis-service-canada.php" class="link">Existing-system RO service &rarr;</a>
         </div>
         <div class="home-card">
           <h3>&#9878;&#65039; Activated Carbon</h3>

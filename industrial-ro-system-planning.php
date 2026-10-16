@@ -111,6 +111,7 @@ include 'header.php';
   <h2>New system planning and service for existing RO</h2>
   <p>If you are evaluating a new or upgraded system, begin with the application, water analysis, quality target, and demand profile. For an existing RO with falling output, rising pressure, or changing permeate quality, begin with operating data and maintenance history; cleaning or replacement should not be assumed before the cause is assessed.</p>
   <ul>
+    <li><a href="industrial-reverse-osmosis-systems.php">Industrial RO system engineering, supply, installation, start-up, and maintenance</a> for new and upgraded facility systems</li>
     <li><a href="reverse-osmosis-service-canada.php">Industrial and commercial RO service</a> for existing process-water and high-purity systems</li>
     <li><a href="ro-troubleshooting-normalization.php">RO troubleshooting and maintenance</a></li>
     <li><a href="ro-membrane-cleaning-cip.php">RO membrane cleaning (CIP)</a></li>
