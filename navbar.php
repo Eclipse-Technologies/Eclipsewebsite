@@ -14,6 +14,7 @@ require_once __DIR__ . '/guides-data.php';
       <ul class="nav">
         <li><a href="about.php"<?php if ($currentPage === 'about.php') echo ' class="active"'; ?>>About</a></li>
         <li><a href="services.php"<?php if ($currentPage === 'services.php') echo ' class="active"'; ?>>Services</a></li>
+        <li><a href="service-areas.php"<?php if ($currentPage === 'service-areas.php') echo ' class="active"'; ?>>Service Areas</a></li>
         <li><a href="industries.php"<?php if ($currentPage === 'industries.php') echo ' class="active"'; ?>>Industries</a></li>
         <li><a href="specs.php"<?php if ($currentPage === 'specs.php') echo ' class="active"'; ?>>Technical Specs</a></li>
         <li><a href="sdi-tank-sizing.php"<?php if ($currentPage === 'sdi-tank-sizing.php') echo ' class="active"'; ?>>Tank Sizing</a></li>
