@@ -55,6 +55,8 @@ $guides = [
      'desc' => 'Antiscalant, sodium metabisulfite and the other chemistry RO relies on, and where problems start.', 'featured' => false],
     ['title' => 'RO Troubleshooting & Maintenance', 'cat' => 'ro', 'url' => 'ro-troubleshooting-normalization.php', 'cta' => 'Read the troubleshooting guide',
      'desc' => 'Common RO symptoms, why they are easy to misread, and what preventive maintenance covers.', 'featured' => false],
+    ['title' => 'Commercial & Industrial RO System Planning', 'cat' => 'ro', 'url' => 'industrial-ro-system-planning.php', 'cta' => 'Read the planning guide',
+     'desc' => 'Evaluate water analysis, capacity, pretreatment, recovery, downstream treatment, lifecycle costs, and service scope for facility RO projects.', 'featured' => false],
     ['title' => 'Activated Carbon Filtration', 'cat' => 'services', 'url' => 'activated-carbon-filtration-service.php', 'cta' => 'Carbon filtration',
      'desc' => 'Chlorine removal, resin protection and pretreatment reliability upstream of your DI or RO system.', 'featured' => false],
     ['title' => 'Industrial Water Softener Service', 'cat' => 'services', 'url' => 'industrial-water-softener-service.php', 'cta' => 'Softener service',

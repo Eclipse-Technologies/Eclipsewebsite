@@ -64,6 +64,7 @@ include 'header.php';
     <h2>Industrial and commercial RO for process water</h2>
     <p>Reverse osmosis (RO) uses pressure to separate water from many dissolved constituents. In industrial and institutional treatment trains, RO may be used for process water, utility or boiler-feed pretreatment, rinse applications, or as pretreatment ahead of deionization. The suitable configuration depends on feed-water chemistry, required water quality, demand, recovery objectives, and the equipment already at the facility.</p>
     <p>This service is for facility operators, plant managers, maintenance teams, and engineering or water-treatment professionals responsible for commercial or industrial equipment. It is not a residential drinking-water or whole-home system service.</p>
+    <p>Evaluating a new or upgraded system? Start with the required water quality, feed-water analysis, demand pattern, pretreatment, and lifecycle requirements—not a catalogue flow rating alone. See our <a href="industrial-ro-system-planning.php">commercial and industrial RO system planning guide</a>.</p>
   </section>
 
   <section class="container">
