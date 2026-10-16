@@ -36,6 +36,46 @@ $pageExtraHead = <<<'EXTRAHEAD'
     "description": "DI tank exchange service, deionized water service, water softeners, reverse osmosis, rentals, and activated carbon filtration for industrial, laboratory, and healthcare facilities across Canada, with 24/7 service response."
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Does Eclipse offer water-treatment rentals?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Water-treatment rental options are available. Equipment selection and rental arrangements depend on the facility, application, and water-treatment requirements."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where does Eclipse provide water-treatment service?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Eclipse provides service support across Canada. Coverage and service arrangements are confirmed based on the facility location and application."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does Eclipse provide 24/7 service response?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Eclipse provides 24/7 service response. Contact Eclipse with your facility location, treatment system, and service need to discuss next steps."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is DI tank exchange service?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "DI tank exchange, also called service deionization, supplies deionized water using exchangeable resin tanks regenerated off-site. Exchange frequency and tank arrangements depend on feed-water quality, water use, target purity, and flow."
+        }
+      }
+    ]
+  }
+  </script>
 EXTRAHEAD;
 include 'header.php';
 ?>
@@ -179,6 +219,23 @@ include 'header.php';
       <h3>Understanding Your Water Service Contract Costs</h3>
       <p>Most water service contracts hide significant fees in their terms — cross-border freight, customs charges, emergency premiums, and currency exposure. Learn what's costing you and why local service often saves money.</p>
       <a class="link" href="hidden-contract-costs-water-service.php">Uncover hidden contract costs →</a>
+    </article>
+  </section>
+
+  <section class="container">
+    <h2>Water treatment service questions</h2>
+    <article class="card">
+      <h3>Does Eclipse offer water-treatment rentals?</h3>
+      <p>Yes. Water-treatment rental options are available. Equipment selection and rental arrangements depend on your facility, application, and treatment requirements. <a class="link" href="contact.php">Discuss a rental option →</a></p>
+
+      <h3>Where does Eclipse provide service?</h3>
+      <p>Eclipse provides water-treatment service support across Canada. Coverage and service arrangements are confirmed based on the facility location and application. <a class="link" href="service-areas.php">Review service areas →</a></p>
+
+      <h3>Does Eclipse provide 24/7 service response?</h3>
+      <p>Yes. Eclipse provides 24/7 service response. Contact us with your facility location, treatment system, and service need to discuss next steps. <a class="link" href="contact.php">Contact Eclipse →</a></p>
+
+      <h3>What is DI tank exchange service?</h3>
+      <p>DI tank exchange, also called service deionization, supplies deionized water using exchangeable resin tanks regenerated off-site. Exchange frequency and tank arrangements depend on feed-water quality, water use, target purity, and flow. <a class="link" href="di-tank-exchange-service.php">Learn about DI tank exchange →</a></p>
     </article>
   </section>
 

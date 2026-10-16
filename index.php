@@ -14,14 +14,10 @@ $pageExtraHead = '
   <meta property="og:url" content="https://eclipsewatertechnologies.com" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="en_CA" />
-  <link rel="me" href="https://www.facebook.com/eclipsewatertechnologies" />
-  <link rel="me" href="https://www.instagram.com/eclipsewatertechnologies" />
-  <link rel="me" href="https://www.linkedin.com/company/eclipse-water-technologies" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Industrial Water Treatment Ontario | Deionized Water Service Toronto | Eclipse Water Technologies" />
   <meta name="twitter:description" content="Industrial water treatment, deionized water service, DI tank exchange, reverse osmosis, and process water solutions across Ontario. Local service without border delays or tariff exposure." />
   <meta name="twitter:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
-  <meta name="twitter:site" content="@EclipseWaterTech" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -40,11 +36,6 @@ $pageExtraHead = '
       "addressCountry": "CA"
     },
     "description": "Proudly Canadian provider of industrial water treatment, deionized water service, water softeners, and activated carbon filtration for industrial, laboratory, and healthcare clients. Local service with no cross-border tariff exposure and faster response times.",
-    "sameAs": [
-      "https://www.facebook.com/eclipsewatertechnologies",
-      "https://www.instagram.com/eclipsewatertechnologies",
-      "https://www.linkedin.com/company/eclipse-water-technologies"
-    ],
     "areaServed": [
       { "@type": "AdministrativeArea", "name": "Ontario" },
       { "@type": "Country", "name": "Canada" }
