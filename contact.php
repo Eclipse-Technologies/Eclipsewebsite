@@ -23,7 +23,8 @@ unset($_SESSION['contact_errors'], $_SESSION['contact_success'], $_SESSION['cont
     <p><strong>Email:</strong> <a href="mailto:rlee@eclipsewatertechnologies.com">rlee@eclipsewatertechnologies.com</a></p>
     <p><strong>Location:</strong> Toronto, Ontario, Canada</p>
     <p><strong>Title:</strong> Certified Engineering Technologist &amp; Project Management Professional</p>
-    <p>Need a local water treatment partner for industrial, laboratory, or healthcare operations in Ontario? We can help reduce downtime, improve system reliability, and lower exposure to cross-border delays and tariff-driven cost spikes.</p>
+    <p>We support industrial, laboratory, healthcare, and commercial facilities throughout Ontario and across Canada. Eclipse is based in Toronto; service options and logistics are planned around each facility's location and requirements.</p>
+    <p><a class="link" href="service-areas.php">See Ontario and Canada service coverage →</a></p>
   </section>
 
 

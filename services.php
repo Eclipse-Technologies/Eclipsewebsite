@@ -104,6 +104,12 @@ include 'header.php';
 
   <section class="container cards">
     <article class="card">
+      <h3>Ontario and Canada service coverage</h3>
+      <p>We support facilities across Ontario and Canada, with service arrangements planned around each location and application.</p>
+      <a class="link" href="service-areas.php">View service areas →</a>
+    </article>
+
+    <article class="card">
       <h3>Local service pages</h3>
       <p>Find the most relevant service page for your facility, geography, or application.</p>
       <ul class="bullets">
