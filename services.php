@@ -115,7 +115,7 @@ include 'header.php';
       <ul class="bullets">
         <li><a class="link" href="di-water-service-toronto.php">DI Water Service Toronto</a></li>
         <li><a class="link" href="industrial-water-treatment-toronto.php">Industrial Water Treatment Toronto</a></li>
-        <li><a class="link" href="di-tank-exchange-service.php">DI Tank Exchange Service</a></li>
+        <li><a class="link" href="di-tank-exchange-service.php">Service Deionization (SDI) &amp; DI Tank Exchange</a></li>
         <li><a class="link" href="industrial-water-softener-service.php">Industrial Water Softener Service</a></li>
         <li><a class="link" href="local-di-service-cost-savings-ontario.php">Local DI Service Cost Savings Ontario</a></li>
       </ul>
