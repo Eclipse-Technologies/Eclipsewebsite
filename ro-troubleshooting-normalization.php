@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/guides-data.php';
-$pageTitle = 'RO Troubleshooting & Maintenance Ontario | Eclipse Water Technologies';
-$pageDescription = 'RO output down, quality slipping or pressure rising? See common RO symptoms, why they are easy to misread, and how Eclipse troubleshooting and preventive maintenance can help.';
+$pageTitle = 'RO Troubleshooting & Maintenance Ontario | Eclipse';
+$pageDescription = 'RO output down, quality slipping, or pressure rising? See common RO symptoms, why they are easy to misread, and how Eclipse can help.';
 $faqs = [
   ['Why did my RO output drop?', 'Common reasons include fouling or scaling, a clogged cartridge filter, pretreatment problems, or simply colder feed water. Telling these apart takes proper review of your operating data.'],
   ['Why is my RO permeate quality getting worse?', 'It can be fouling, scaling, membrane damage from chlorine, or a mechanical leak. Each has a different fix, and cleaning will not solve a damaged membrane or leak.'],

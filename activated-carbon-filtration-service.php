@@ -1,6 +1,7 @@
 ﻿<?php
-$pageTitle = 'Activated Carbon Filtration Service Ontario | Carbon Filter Service Canada | Eclipse Water Technologies';
-$pageDescription = 'Activated carbon filtration service in Ontario for chlorine removal, organics reduction, pretreatment stability, and process water support across industrial and commercial systems.';
+$pageTitle = 'Activated Carbon Filtration Service Ontario | Eclipse';
+$pageDescription = 'Activated carbon filtration in Ontario for chlorine removal, organics reduction, and pretreatment protection for industrial and commercial systems.';
+$pageService = ['name' => 'Activated Carbon Filtration Service', 'serviceType' => 'Activated carbon water filtration'];
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="activated carbon filtration service Ontario, carbon filter service Ontario, industrial carbon filtration, chlorine removal service, local carbon filtration service Ontario" />

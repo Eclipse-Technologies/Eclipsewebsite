@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'Local Manufacturing Water Service Ontario | Reduce Downtime Risk and Cost | Eclipse Water Technologies';
-$pageDescription = 'Learn how local manufacturing DI and process water service in Ontario can reduce downtime risk, improve response time, and lower cross-border service cost exposure.';
+$pageTitle = 'Local Manufacturing Water Service Ontario | Less Downtime';
+$pageDescription = 'How local manufacturing DI and process water service in Ontario reduces downtime risk, improves response time, and lowers cross-border cost exposure.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="manufacturing water service Ontario, local DI service manufacturing Ontario, process water support Ontario, manufacturing water service cost savings, local industrial water service Ontario" />

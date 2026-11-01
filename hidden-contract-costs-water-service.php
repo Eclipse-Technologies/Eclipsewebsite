@@ -1,5 +1,5 @@
 ﻿<?php
-$pageTitle = 'Hidden Costs in Water Service Contracts | Eclipse Water Technologies';
+$pageTitle = 'Hidden Costs in Water Service Contracts | Eclipse';
 $pageDescription = 'Learn how freight, customs, emergency fees, currency exposure, and contract terms can affect the true cost of industrial water service.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">

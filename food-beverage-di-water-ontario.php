@@ -1,6 +1,6 @@
 <?php
-$pageTitle = 'DI Water for Food & Beverage Processing Ontario | Eclipse Water Technologies';
-$pageDescription = 'High-purity deionized water for food and beverage processing in Ontario. Prevent scaling, protect equipment, and meet sanitation requirements with a local DI tank exchange program.';
+$pageTitle = 'DI Water for Food & Beverage Processing Ontario';
+$pageDescription = 'Deionized water for Ontario food and beverage processing. Prevent scaling, protect equipment, and meet sanitation needs with local DI tank exchange.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="DI water food beverage processing Ontario, deionized water food production Canada, pure water food manufacturing Toronto, water treatment food industry Ontario" />

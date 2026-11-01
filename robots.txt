@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /submit-contact.php
+Disallow: /resin-tank-calculator.php
 
 User-agent: OAI-SearchBot
 Allow: /

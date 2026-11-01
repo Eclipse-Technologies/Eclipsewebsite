@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'Local Hospital Water Service Ontario | Reduce Cost and Response Risk | Eclipse Water Technologies';
-$pageDescription = 'See how local hospital DI and high purity water service in Ontario can reduce cross-border delay risk, improve response time, and lower total service cost for critical healthcare applications.';
+$pageTitle = 'Local Hospital Water Service Ontario | Cut Cost & Risk';
+$pageDescription = 'How local hospital DI and high purity water service in Ontario reduces cross-border delay risk, improves response time, and lowers service cost.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="hospital DI water Ontario, local hospital water service Ontario, hospital high purity water Ontario, hospital water service cost savings, healthcare DI water support Ontario" />

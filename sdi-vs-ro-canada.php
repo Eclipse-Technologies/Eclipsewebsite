@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'SDI vs RO — Which is Better for Your Facility? | Eclipse Water Technologies';
-$pageDescription = 'Comparing service deionization (SDI) and reverse osmosis (RO) for Canadian industrial and laboratory facilities. Learn which system fits your water quality needs, budget, and operating model.';
+$pageTitle = 'SDI vs RO: Which Is Better for Your Facility? | Eclipse';
+$pageDescription = 'Compare service deionization (SDI) and reverse osmosis (RO) for Canadian facilities: which fits your water quality needs, budget, and operating model.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="SDI vs RO, service deionization vs reverse osmosis, DI water vs RO water Canada, which water treatment system, deionized water comparison" />

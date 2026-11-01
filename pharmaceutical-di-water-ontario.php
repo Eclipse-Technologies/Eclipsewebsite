@@ -1,6 +1,6 @@
 <?php
-$pageTitle = 'DI Water for Pharmaceutical & Biotech Facilities Ontario | Eclipse Water Technologies';
-$pageDescription = 'High-purity deionized water for pharmaceutical compounding, biotech research, and laboratory applications in Ontario. Local SDI service with no tariffs and transparent pricing.';
+$pageTitle = 'DI Water for Pharmaceutical & Biotech Ontario';
+$pageDescription = 'Deionized water for pharmaceutical compounding, biotech research, and labs in Ontario. Local SDI service with no tariffs and transparent pricing.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="pharmaceutical DI water Ontario, biotech deionized water Canada, purified water USP pharmaceutical, DI water drug compounding Ontario, high purity water pharma Toronto" />

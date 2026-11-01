@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'Service Deionization (SDI) & DI Tank Exchange Ontario | Eclipse';
-$pageDescription = 'Industrial service deionization (SDI) and DI tank exchange service in Ontario for facilities needing high-purity water, locally regenerated mixed-bed resin, scheduled exchanges, and ongoing support.';
+$pageTitle = 'Service Deionization (SDI) & DI Tank Exchange Ontario';
+$pageDescription = 'Industrial service deionization (SDI) and DI tank exchange in Ontario: locally regenerated mixed-bed resin, scheduled exchanges, and ongoing support.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="service deionization Ontario, SDI service Ontario, industrial DI tank exchange, DI tank exchange service Ontario, deionized water service, mixed bed tank exchange, DI service program" />

@@ -1,3 +1,10 @@
+<?php
+// This file is a calculator fragment included by sdi-tank-sizing.php; send direct visits to the real page.
+if (basename($_SERVER['SCRIPT_FILENAME'] ?? '') === basename(__FILE__)) {
+    header('Location: /sdi-tank-sizing.php', true, 301);
+    exit;
+}
+?>
 <!-- SDI/Resin Tank Sizing Calculator Form Only (no duplicate header/hero) -->
         <div class="container calc-form">
             <form id="tankCalc" autocomplete="off">

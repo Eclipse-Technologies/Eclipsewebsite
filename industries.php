@@ -1,6 +1,6 @@
 ﻿<?php
 $pageTitle = 'Industries Served | Canadian DI Water & Filtration Solutions';
-$pageDescription = 'Eclipse Water Technologies serves industries across Canada with DI water systems, softeners, and carbon filtration — from pharma to electronics and food & beverage.';
+$pageDescription = 'Eclipse serves industries across Canada with DI water systems, softeners, and carbon filtration, from pharma to electronics and food & beverage.';
 include 'header.php';
 ?>
 

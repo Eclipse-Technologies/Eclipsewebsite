@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'SDI Troubleshooting — Low Resistivity, Channeling, Silica Breakthrough | Eclipse Water Technologies';
-$pageDescription = 'Diagnosing common SDI system problems: low resistivity after a fresh tank swap, premature exhaustion, silica breakthrough, channeling, and resin degradation. Practical fixes for Canadian facilities.';
+$pageTitle = 'SDI Troubleshooting: Low Resistivity & Silica | Eclipse';
+$pageDescription = 'Diagnose SDI problems: low resistivity after a tank swap, premature exhaustion, silica breakthrough, channeling, and resin degradation, with practical fixes.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="SDI troubleshooting, low resistivity DI water, silica breakthrough DI tank, DI resin channeling, deionized water quality problem, service deionization problem Canada" />

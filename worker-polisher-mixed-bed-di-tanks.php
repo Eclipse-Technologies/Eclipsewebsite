@@ -1,6 +1,6 @@
 <?php
-$pageTitle = 'Worker/Polisher Mixed-Bed DI Tanks: Why Two Tanks in Series | Eclipse Water Technologies';
-$pageDescription = 'How a two-tank worker/polisher (lead/lag) mixed-bed deionization setup compares with a single mixed-bed tank: fuller resin use, scheduled tank swaps and lower risk of out-of-spec water.';
+$pageTitle = 'Worker/Polisher Mixed-Bed DI Tanks: Two in Series | Eclipse';
+$pageDescription = 'How a worker/polisher (lead/lag) mixed-bed DI setup compares with a single tank: fuller resin use, scheduled swaps, and lower risk of out-of-spec water.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="author" content="Eclipse Water Technologies" />

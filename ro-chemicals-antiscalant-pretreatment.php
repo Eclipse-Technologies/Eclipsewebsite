@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/guides-data.php';
-$pageTitle = 'RO Chemicals: Antiscalant, Sodium Metabisulfite & More | Eclipse Water Technologies';
-$pageDescription = 'Reverse osmosis depends on the right chemistry: antiscalant, sodium metabisulfite, pH control, biocides and cleaning acids. See where problems start and how Eclipse can help.';
+$pageTitle = 'RO Chemicals: Antiscalant, Sodium Metabisulfite | Eclipse';
+$pageDescription = 'RO depends on the right chemistry: antiscalant, sodium metabisulfite, pH control, biocides, and cleaning acids. See where problems start.';
 $faqs = [
   ['What chemicals does a reverse osmosis system use?', 'Common ones include antiscalant to prevent scale, sodium metabisulfite or carbon to remove chlorine, acid or caustic for pH control, coagulants for pretreatment, biocides, and cleaning chemicals such as citric, malic, and glycolic acid. What your system needs depends on your water.'],
   ['What is antiscalant?', 'Antiscalant is a chemical fed continuously in very small amounts to keep dissolved minerals from forming scale on RO membranes.'],

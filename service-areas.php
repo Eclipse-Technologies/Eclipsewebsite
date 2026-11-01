@@ -1,6 +1,6 @@
 <?php
-$pageTitle = 'Industrial Water Treatment Service Areas | Ontario & Canada | Eclipse Water Technologies';
-$pageDescription = 'Eclipse Water Technologies supports industrial, laboratory, and healthcare facilities across Ontario and Canada with DI water service, tank exchange, reverse osmosis, softeners, filtration, and technical support.';
+$pageTitle = 'Industrial Water Treatment Service Areas | Ontario & Canada';
+$pageDescription = 'Eclipse supports industrial, laboratory, and healthcare facilities across Ontario and Canada with DI service, tank exchange, RO, softeners, and filtration.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link rel="canonical" href="https://eclipsewatertechnologies.com/service-areas.php" />
   <meta property="og:title" content="Industrial Water Treatment Service Areas | Ontario & Canada | Eclipse Water Technologies" />

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/guides-data.php';
-$pageTitle = 'Industrial Reverse Osmosis Systems | Design, Supply & Service | Eclipse';
-$pageDescription = 'Industrial RO system engineering, design, equipment supply, installation, start-up, and ongoing maintenance for commercial, institutional, and industrial facilities across Ontario and Canada.';
+$pageTitle = 'Industrial Reverse Osmosis Systems | Design & Service';
+$pageDescription = 'Industrial RO engineering, design, supply, installation, start-up, and maintenance for commercial and industrial facilities across Ontario and Canada.';
 $faqs = [
   ['Does Eclipse provide complete industrial RO systems?', 'Yes. Eclipse can support industrial, commercial, and institutional RO projects through engineering and system design, equipment supply, installation and start-up, and ongoing maintenance. The project scope is developed around the application, feed-water analysis, water-quality target, and operating requirements.'],
   ['What information is needed to design an industrial RO system?', 'A representative feed-water analysis, required permeate quality, average and peak demand, operating schedule, intended application, and site constraints help establish a suitable design basis. Existing pretreatment, utilities, concentrate handling, storage, and downstream treatment should also be reviewed.'],

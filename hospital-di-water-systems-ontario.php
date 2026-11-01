@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'Hospital DI Water Systems Ontario | Eclipse Water Technologies';
-$pageDescription = 'Hospital DI water systems in Ontario for sterilization support, lab prep, and equipment rinse. Service-backed water quality support from Eclipse Water Technologies.';
+$pageTitle = 'Hospital DI Water Systems Ontario | Eclipse';
+$pageDescription = 'Hospital DI water systems in Ontario for sterilization support, lab prep, and equipment rinse. Service-backed water quality from Eclipse.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="hospital DI water systems Ontario, hospital deionized water Ontario, sterilization rinse water Ontario" />

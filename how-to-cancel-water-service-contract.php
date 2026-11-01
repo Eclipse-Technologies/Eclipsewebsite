@@ -1,5 +1,5 @@
 ﻿<?php
-$pageTitle = 'How to Cancel a Water Service Contract | Eclipse Water Technologies';
+$pageTitle = 'How to Cancel a Water Service Contract | Eclipse';
 $pageDescription = 'Review cancellation and renewal terms, plan equipment return, and prepare a smooth transition when ending an industrial water service contract.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">

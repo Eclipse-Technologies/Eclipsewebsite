@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/guides-data.php';
-$pageTitle = 'Industrial & Commercial RO Service Ontario | Eclipse Water Technologies';
-$pageDescription = 'Industrial, commercial, and institutional reverse osmosis service across Ontario and Canada: RO CIP, membrane cleaning, dosing review, troubleshooting, normalization, and replacement planning. Not residential RO.';
+$pageTitle = 'Industrial & Commercial RO Service Ontario | Eclipse';
+$pageDescription = 'Industrial and commercial RO service across Ontario and Canada: CIP, membrane cleaning, dosing, troubleshooting, and replacement. Not residential RO.';
 $faqs = [
   ['What does reverse osmosis service usually include?', 'It typically includes membrane cleaning (CIP) and disinfection, performance review and normalization, cartridge filter and pretreatment checks, chemical dosing review, troubleshooting, and membrane replacement planning.'],
   ['What is RO CIP and when is it needed?', 'RO CIP (clean-in-place) is a controlled chemical cleaning of installed membranes to remove scale, metal deposits, organics, and biological growth. It is usually needed when output drops, pressure rises, or permeate quality slips, and the cause should be identified first so the right approach is used.'],

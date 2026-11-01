@@ -1,6 +1,6 @@
 <?php
-$pageTitle = 'Mixed-Bed vs. Two-Bed Deionization: Purity, Cost & Regeneration | Eclipse Water Technologies';
-$pageDescription = 'White paper: compare mixed-bed DI with a two-bed (one cation + one anion tank) system. Purity, tanks regenerated, cost per gallon, capacity and when to use each in Ontario.';
+$pageTitle = 'Mixed-Bed vs. Two-Bed Deionization: Purity & Cost';
+$pageDescription = 'White paper comparing mixed-bed DI with two-bed (cation + anion) systems: purity, tanks regenerated, cost per gallon, capacity, and when to use each.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="author" content="Eclipse Water Technologies" />

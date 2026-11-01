@@ -1,6 +1,6 @@
 ﻿<?php
 $pageTitle = 'Lab DI Water Systems Ontario | Eclipse Water Technologies';
-$pageDescription = 'Lab DI water systems in Ontario for reagent prep, analytical testing, glassware rinse, and post-RO polishing. Service-backed support for reliable high-purity water.';
+$pageDescription = 'Lab DI water systems in Ontario for reagent prep, analytical testing, glassware rinse, and post-RO polishing. Service-backed high-purity water.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="lab DI water systems Ontario, laboratory deionized water Ontario, high purity lab water Ontario" />

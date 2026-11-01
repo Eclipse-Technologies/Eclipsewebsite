@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'Local DI Water Service Ontario | Reduce Cross-Border Cost and Risk | Eclipse Water Technologies';
-$pageDescription = 'Learn how local DI water service in Ontario can reduce cross-border freight, customs administration, currency exposure, and service-delay risk for industrial and laboratory facilities.';
+$pageTitle = 'Local DI Water Service Ontario | Cut Cross-Border Risk';
+$pageDescription = 'How local DI water service in Ontario reduces cross-border freight, customs, currency exposure, and delay risk for industrial and lab facilities.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="local DI water service Ontario, cross-border resin regeneration risk, DI tank exchange Ontario, reduce water treatment costs Canada, high purity water local service, industrial water treatment Ontario" />

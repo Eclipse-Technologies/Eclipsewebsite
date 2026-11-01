@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/guides-data.php';
-$pageTitle = 'RO Membrane Cleaning (CIP) Ontario | Eclipse Water Technologies';
-$pageDescription = 'Is your RO losing output or permeate quality? Learn the warning signs that your membranes need cleaning (CIP), what usually causes it, and how Eclipse can help across Ontario.';
+$pageTitle = 'RO Membrane Cleaning (CIP) Ontario | Eclipse';
+$pageDescription = 'Is your RO losing output or permeate quality? Learn the warning signs your membranes need cleaning (CIP), common causes, and how Eclipse can help.';
 $faqs = [
   ['What is RO CIP?', 'CIP (clean-in-place) is a controlled chemical cleaning of RO membranes while they stay in the system. It removes scale, metal deposits, organic matter, and biological growth that normal operation cannot.'],
   ['How do I know my RO membranes need cleaning?', 'Common signs are lower permeate output, higher operating pressure, poorer permeate quality, and cartridge filters that need changing more often. A professional review of your operating data can confirm whether cleaning is the right answer.'],

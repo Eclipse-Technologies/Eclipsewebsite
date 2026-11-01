@@ -1,6 +1,6 @@
 <?php
-$pageTitle = 'What is Mixed-Bed Deionization? | How Mixed-Bed DI Works | Eclipse Water Technologies';
-$pageDescription = 'What is mixed-bed deionization and how does it work? Learn how mixed-bed ion exchange resin produces high-purity water, when to use it, and how it differs from two-bed systems.';
+$pageTitle = 'What Is Mixed-Bed Deionization? How It Works | Eclipse';
+$pageDescription = 'What is mixed-bed deionization? Learn how mixed-bed ion exchange resin makes high-purity water, when to use it, and how it differs from two-bed systems.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="what is mixed bed deionization, mixed bed DI water explained, mixed bed resin how it works, mixed bed vs two bed ion exchange, mixed bed deionizer Canada" />

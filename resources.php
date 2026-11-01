@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/guides-data.php';
 $pageTitle = 'SDI & Water Treatment Resources | Eclipse Water Technologies';
-$pageDescription = 'Free resources on service deionization, DI water quality, system sizing, troubleshooting, and water treatment selection for Canadian industrial and laboratory facilities.';
+$pageDescription = 'Free resources on service deionization, DI water quality, system sizing, troubleshooting, and water treatment selection for Canadian facilities.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <link rel="canonical" href="https://eclipsewatertechnologies.com/resources.php" />

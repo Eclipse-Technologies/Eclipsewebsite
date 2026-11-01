@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'High Purity Water Systems Canada | Eclipse Water Technologies';
-$pageDescription = 'High purity water systems in Canada for laboratories, electronics, research, healthcare, and precision manufacturing. Practical support for reliable water quality.';
+$pageTitle = 'High Purity Water Systems Canada | Eclipse';
+$pageDescription = 'High purity water systems in Canada for labs, electronics, research, healthcare, and precision manufacturing. Practical support for reliable water quality.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="high purity water systems Canada, ultrapure water systems Canada, lab water systems Canada, process high purity water" />

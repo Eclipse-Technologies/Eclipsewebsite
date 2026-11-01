@@ -1,6 +1,6 @@
 <?php
-$pageTitle = 'DI Water for CNC Machining & Machine Shops Ontario | Eclipse Water Technologies';
-$pageDescription = 'High-purity DI water for CNC machine shops in Ontario. Prevent mineral buildup in coolant lines, cutting tools, and washdown systems. Local tank exchange service — no tariffs, fast support.';
+$pageTitle = 'DI Water for CNC & Machine Shops Ontario | Eclipse';
+$pageDescription = 'DI water for Ontario CNC machine shops. Prevent mineral buildup in coolant lines, tools, and washdown with local tank exchange and fast support.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="DI water CNC machining Ontario, deionized water machine shop Toronto, DI water coolant CNC, EDM water quality, CNC rinse water service Ontario" />

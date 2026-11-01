@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/guides-data.php';
-$pageTitle = 'Commercial & Industrial Reverse Osmosis Systems: Planning Guide | Eclipse Water Technologies';
-$pageDescription = 'A practical guide to evaluating commercial and industrial reverse osmosis systems: water analysis, capacity, pretreatment, recovery, downstream treatment, lifecycle costs, and service planning.';
+$pageTitle = 'Industrial & Commercial RO Systems: Planning Guide';
+$pageDescription = 'A practical guide to planning commercial and industrial RO systems: water analysis, capacity, pretreatment, recovery, lifecycle costs, and service.';
 $faqs = [
   ['What is a commercial or industrial reverse osmosis system?', 'It is a membrane treatment system used to reduce dissolved constituents in water for a defined commercial, institutional, or industrial application. System design depends on feed-water quality, required permeate quality, demand, recovery goals, and the treatment train around it.'],
   ['How do I size an industrial RO system?', 'Start with the required permeate volume and the pattern of demand, including average and peak use, operating hours, storage, and expected future changes. A water analysis and process requirements are also needed before selecting a configuration.'],

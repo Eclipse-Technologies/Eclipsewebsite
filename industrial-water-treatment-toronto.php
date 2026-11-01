@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'Industrial Water Treatment Toronto | Eclipse Water Technologies';
-$pageDescription = 'Industrial water treatment in Toronto for DI water, softening, carbon filtration, reverse osmosis, and process optimization. Practical support for production and facility teams.';
+$pageTitle = 'Industrial Water Treatment Toronto | Eclipse';
+$pageDescription = 'Industrial water treatment in Toronto: DI water, softening, carbon filtration, reverse osmosis, and process optimization for production and facility teams.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="industrial water treatment Toronto, water treatment company Toronto, process water Toronto, DI water Toronto industrial" />

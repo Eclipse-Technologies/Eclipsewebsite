@@ -5,8 +5,8 @@ if ($ref !== '' && strpos($ref, 'contact.php') === false && strpos($ref, 'submit
     $_SESSION['quote_from'] = substr($ref, 0, 300);
 }
 $serviceOptions = ['DI tank exchange', 'DI water service', 'Reverse osmosis (RO)', 'Water softener', 'Carbon filtration', 'Equipment / system purchase', 'Other / not sure'];
-$pageTitle = 'Industrial Water Treatment Contact Ontario | Eclipse Water Technologies';
-$pageDescription = 'Contact Eclipse Water Technologies for industrial water treatment, deionized water service, reverse osmosis, and process water solutions across Ontario and Toronto.';
+$pageTitle = 'Contact Eclipse | Industrial Water Treatment Ontario';
+$pageDescription = 'Contact Eclipse Water Technologies for industrial water treatment, DI water service, reverse osmosis, and process water across Ontario and Toronto.';
 include 'header.php';
 
 // Handle form feedback

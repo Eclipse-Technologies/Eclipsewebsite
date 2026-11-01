@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'Metal Finishing DI Water Systems | Eclipse Water Technologies';
-$pageDescription = 'Metal finishing DI water systems for plating, final rinse, and reduced spotting risk. Service-backed support for throughput, resin loading, and water quality control.';
+$pageTitle = 'Metal Finishing DI Water Systems | Eclipse';
+$pageDescription = 'Metal finishing DI water systems for plating, final rinse, and reduced spotting. Service-backed support for throughput, resin loading, and water quality.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="metal finishing DI water systems, plating rinse water, deionized water metal finishing, DI rinse water system" />

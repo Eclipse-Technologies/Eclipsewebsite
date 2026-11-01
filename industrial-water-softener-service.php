@@ -1,6 +1,7 @@
 ﻿<?php
-$pageTitle = 'Industrial Water Softener Service Ontario | Water Softener Service Canada | Eclipse Water Technologies';
-$pageDescription = 'Industrial water softener service in Ontario for scale control, pretreatment reliability, and dependable support across manufacturing, healthcare, and laboratory systems.';
+$pageTitle = 'Industrial Water Softener Service Ontario | Eclipse';
+$pageDescription = 'Industrial water softener service in Ontario for scale control and pretreatment reliability across manufacturing, healthcare, and laboratory systems.';
+$pageService = ['name' => 'Industrial Water Softener Service', 'serviceType' => 'Industrial water softening'];
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="industrial water softener service Ontario, water softener service Ontario, industrial water softener service Canada, commercial water softener service, softener maintenance industrial, local water softener service Ontario" />

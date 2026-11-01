@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'Industrial Water Treatment Services Ontario | DI Water, RO, Softeners & Filtration | Eclipse Water Technologies';
-$pageDescription = 'Industrial water treatment across Canada, including DI water, reverse osmosis, rentals, and 24/7 service response. Direct technical support from a CET and PMP.';
+$pageTitle = 'Industrial Water Treatment Services Ontario | Eclipse';
+$pageDescription = 'Industrial water treatment across Canada, including DI water, RO, rentals, and 24/7 service response. Direct technical support from a CET and PMP.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <link rel="canonical" href="https://eclipsewatertechnologies.com/services.php" />

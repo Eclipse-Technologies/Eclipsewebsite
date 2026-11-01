@@ -1,6 +1,6 @@
 <?php
-$pageTitle = 'DI Water Service Pricing Ontario | How Much Does SDI Cost? | Eclipse Water Technologies';
-$pageDescription = 'How much does deionized water service cost in Ontario? Learn what drives SDI tank exchange pricing, what to expect, and how to reduce your per-gallon water cost.';
+$pageTitle = 'DI Water Service Pricing Ontario | What Does SDI Cost?';
+$pageDescription = 'What does deionized water service cost in Ontario? See what drives SDI tank exchange pricing and how to reduce your per-gallon cost.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="DI water service cost Ontario, SDI tank exchange pricing, deionized water cost per gallon Canada, how much does DI water service cost, water treatment pricing Ontario" />

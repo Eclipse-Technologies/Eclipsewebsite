@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'Local Laboratory Water Service Ontario | Reduce Cost and Delay Risk | Eclipse Water Technologies';
-$pageDescription = 'See how local laboratory DI and high purity water service in Ontario can reduce cross-border delay risk, improve response time, and lower total service cost for labs and research facilities.';
+$pageTitle = 'Local Laboratory Water Service Ontario | Cut Delay Risk';
+$pageDescription = 'How local laboratory DI and high purity water service in Ontario reduces cross-border delay risk, improves response time, and lowers cost for labs.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="laboratory water service Ontario, local lab DI water Ontario, local high purity water service Ontario, laboratory water service cost savings, research lab DI water support Ontario" />

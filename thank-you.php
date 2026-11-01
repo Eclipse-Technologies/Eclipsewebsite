@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Thank You | Eclipse Water Technologies';
-$pageDescription = 'Thank you for contacting Eclipse Water Technologies.';
+$pageDescription = 'Thank you for contacting Eclipse Water Technologies. We will review your request and respond as soon as possible.';
 $pageExtraHead = '<meta name="robots" content="noindex, follow">';
 include 'header.php';
 ?>

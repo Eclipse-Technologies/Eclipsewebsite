@@ -1,6 +1,7 @@
 ﻿<?php
 $pageTitle = 'DI Water Service Toronto | Eclipse Water Technologies';
-$pageDescription = 'DI water service in Toronto for laboratories, manufacturing, rinse water, and process applications. Tank exchange, troubleshooting, and hands-off support from Eclipse Water Technologies.';
+$pageDescription = 'DI water service in Toronto for labs, manufacturing, and process rinse water. Tank exchange, troubleshooting, and hands-off support from Eclipse.';
+$pageService = ['name' => 'DI Water Service Toronto', 'serviceType' => 'Deionized water service'];
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="DI water service Toronto, deionized water Toronto, DI tank service Toronto, industrial DI water service" />

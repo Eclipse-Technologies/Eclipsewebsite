@@ -11,6 +11,54 @@ $canonicalUrl = $canonicalPage === 'index.php'
     : 'https://eclipsewatertechnologies.com/' . rawurlencode($canonicalPage);
 $hasCanonical = isset($pageExtraHead)
     && preg_match('/<link\b[^>]*\brel\s*=\s*(["\'])canonical\1/i', $pageExtraHead) === 1;
+
+$siteUrl = 'https://eclipsewatertechnologies.com';
+$orgId = $siteUrl . '/#organization';
+$seoTitle = $pageTitle ?? 'Eclipse Water Technologies';
+$seoDescription = $pageDescription ?? 'High-purity water systems, DI service, and technical support across Canada.';
+$extraHead = $pageExtraHead ?? '';
+$isNoindex = preg_match('/<meta\b[^>]*name\s*=\s*["\']robots["\'][^>]*noindex/i', $extraHead) === 1;
+$hasOpenGraph = stripos($extraHead, 'og:title') !== false;
+$hasTwitterCard = stripos($extraHead, 'twitter:card') !== false;
+
+// Structured data shared by every page; pages can opt in to Service schema with $pageService = ['name' => ..., 'serviceType' => ...].
+$schemas = [];
+if ($canonicalPage !== 'index.php' && !$isNoindex) {
+    $schemas[] = [
+        '@context' => 'https://schema.org',
+        '@type' => 'BreadcrumbList',
+        'itemListElement' => [
+            ['@type' => 'ListItem', 'position' => 1, 'name' => 'Home', 'item' => $siteUrl . '/'],
+            ['@type' => 'ListItem', 'position' => 2, 'name' => trim(explode(' | ', $seoTitle)[0]), 'item' => $canonicalUrl],
+        ],
+    ];
+}
+if (isset($pageService)) {
+    $schemas[] = [
+        '@context' => 'https://schema.org',
+        '@type' => 'Service',
+        'name' => $pageService['name'],
+        'serviceType' => $pageService['serviceType'],
+        'description' => $seoDescription,
+        'url' => $canonicalUrl,
+        'provider' => ['@id' => $orgId],
+        'areaServed' => [
+            ['@type' => 'AdministrativeArea', 'name' => 'Ontario'],
+            ['@type' => 'Country', 'name' => 'Canada'],
+        ],
+    ];
+}
+$webPageTypes = ['about.php' => 'AboutPage', 'contact.php' => 'ContactPage'];
+if (isset($webPageTypes[$canonicalPage])) {
+    $schemas[] = [
+        '@context' => 'https://schema.org',
+        '@type' => $webPageTypes[$canonicalPage],
+        'name' => $seoTitle,
+        'description' => $seoDescription,
+        'url' => $canonicalUrl,
+        'about' => ['@id' => $orgId],
+    ];
+}
 ?>
 <!DOCTYPE html>
 <html lang="en-CA">
@@ -27,7 +75,25 @@ $hasCanonical = isset($pageExtraHead)
     <?php if (!$hasCanonical): ?>
     <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl, ENT_QUOTES, 'UTF-8'); ?>">
     <?php endif; ?>
+    <?php if (!$hasOpenGraph): ?>
+    <meta property="og:title" content="<?php echo htmlspecialchars($seoTitle, ENT_QUOTES, 'UTF-8'); ?>">
+    <meta property="og:description" content="<?php echo htmlspecialchars($seoDescription, ENT_QUOTES, 'UTF-8'); ?>">
+    <meta property="og:image" content="<?php echo $siteUrl; ?>/Eclipselogo2026.png">
+    <meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl, ENT_QUOTES, 'UTF-8'); ?>">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_CA">
+    <?php endif; ?>
+    <?php if (!$hasTwitterCard): ?>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo htmlspecialchars($seoTitle, ENT_QUOTES, 'UTF-8'); ?>">
+    <meta name="twitter:description" content="<?php echo htmlspecialchars($seoDescription, ENT_QUOTES, 'UTF-8'); ?>">
+    <meta name="twitter:image" content="<?php echo $siteUrl; ?>/Eclipselogo2026.png">
+    <meta name="twitter:site" content="@EclipseWaterTech">
+    <?php endif; ?>
     <?php if (isset($pageExtraHead)) echo $pageExtraHead; ?>
+    <?php foreach ($schemas as $schema): ?>
+    <script type="application/ld+json"><?php echo json_encode($schema, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_HEX_TAG); ?></script>
+    <?php endforeach; ?>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>

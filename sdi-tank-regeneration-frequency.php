@@ -1,6 +1,6 @@
 ﻿<?php
-$pageTitle = 'How Often Should SDI Tanks Be Regenerated? | Eclipse Water Technologies';
-$pageDescription = 'How often SDI tanks need to be regenerated or exchanged depends on feed water TDS, flow rate, resin volume, and target purity. Learn the key factors and how to plan your service intervals.';
+$pageTitle = 'How Often Should SDI Tanks Be Regenerated? | Eclipse';
+$pageDescription = 'How often SDI tanks need regeneration depends on feed TDS, flow rate, resin volume, and target purity. Learn the factors and plan service intervals.';
 $pageExtraHead = <<<'EXTRAHEAD'
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <meta name="keywords" content="SDI tank regeneration frequency, how often replace DI tank, deionized water tank exchange interval, DI resin exhaustion rate, service deionization schedule Canada" />

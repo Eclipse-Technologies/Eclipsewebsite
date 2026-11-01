@@ -1,6 +1,7 @@
 <?php
-$pageTitle = 'PFOS & PFAS Water Treatment Ontario | Eclipse Water Technologies';
-$pageDescription = 'PFOS and PFAS water treatment planning in Ontario and across Canada: compare GAC, ion exchange, and reverse osmosis, with water analysis, residuals handling, and testing built in.';
+$pageTitle = 'PFOS & PFAS Water Treatment Ontario | Eclipse';
+$pageDescription = 'PFOS and PFAS water treatment planning in Ontario and Canada: compare GAC, ion exchange, and RO, with analysis, residuals, and testing built in.';
+$pageService = ['name' => 'PFOS and PFAS Water Treatment Planning', 'serviceType' => 'PFAS water treatment evaluation'];
 $pageExtraHead = <<<'EXTRAHEAD'
   <meta name="keywords" content="PFOS treatment Ontario, PFOS water treatment Canada, PFAS water treatment Ontario, PFOS removal from water, PFAS removal systems, GAC for PFOS, ion exchange PFAS, reverse osmosis PFAS, industrial PFAS treatment, PFAS water testing and treatment planning" />
   <meta name="author" content="Eclipse Water Technologies" />
