@@ -61,6 +61,8 @@ $guides = [
      'desc' => 'Engineering, system design, equipment supply, installation, start-up, and ongoing maintenance for facility RO projects.', 'featured' => false],
     ['title' => 'Activated Carbon Filtration', 'cat' => 'services', 'url' => 'activated-carbon-filtration-service.php', 'cta' => 'Carbon filtration',
      'desc' => 'Chlorine removal, resin protection and pretreatment reliability upstream of your DI or RO system.', 'featured' => false],
+    ['title' => 'PFOS Treatment for Water', 'cat' => 'services', 'url' => 'pfos-treatment.php', 'cta' => 'Explore PFOS treatment',
+     'desc' => 'Compare PFOS treatment approaches and the water analysis, residuals management, and verification needed to plan a system.', 'featured' => false],
     ['title' => 'Industrial Water Softener Service', 'cat' => 'services', 'url' => 'industrial-water-softener-service.php', 'cta' => 'Softener service',
      'desc' => 'Hardness control for boilers, wash systems and pretreatment, reducing DI resin exhaustion when used upstream.', 'featured' => false],
 

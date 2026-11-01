@@ -69,6 +69,7 @@ include 'header.php';
       <h3>Related pages</h3>
       <ul class="bullets">
         <li><a class="link" href="reverse-osmosis-service-canada.php">Reverse Osmosis Service Canada</a></li>
+        <li><a class="link" href="pfos-treatment.php">PFOS Treatment for Water</a></li>
         <li><a class="link" href="ro-chemicals-antiscalant-pretreatment.php">RO Chemicals: Antiscalant, SMBS and More</a></li>
         <li><a class="link" href="industrial-water-softener-service.php">Industrial Water Softener Service</a></li>
         <li><a class="link" href="industrial-water-treatment-toronto.php">Industrial Water Treatment Toronto</a></li>
