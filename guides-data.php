@@ -16,6 +16,8 @@ $guides = [
      'desc' => 'One mixed-bed tank or a cation + anion pair? Purity, tanks regenerated per cycle, capacity and cost impact.', 'featured' => true],
     ['title' => 'How Service Deionization Works', 'cat' => 'technology', 'url' => 'how-sdi-works.php', 'cta' => 'Read the guide',
      'desc' => 'A plain-language explanation of ion exchange, mixed-bed resin, cation vs. anion resin, and what a tank exchange program looks like.', 'featured' => true],
+    ['title' => 'Worker/Polisher Mixed-Bed Tanks', 'cat' => 'technology', 'url' => 'worker-polisher-mixed-bed-di-tanks.php', 'cta' => 'Read the guide',
+     'desc' => 'Why two mixed-bed tanks in series can beat a single tank: fuller resin use, scheduled swaps and lower risk of out-of-spec water.', 'featured' => false],
     ['title' => 'What is Mixed-Bed Deionization?', 'cat' => 'technology', 'url' => 'what-is-mixed-bed-deionization.php', 'cta' => 'Read the explainer',
      'desc' => 'How cation and anion resin combine in a single tank to produce 1–18 MegOhm water, and when to use it.', 'featured' => false],
     ['title' => 'SDI vs RO: Which is Right for You?', 'cat' => 'technology', 'url' => 'sdi-vs-ro-canada.php', 'cta' => 'Compare the technologies',
