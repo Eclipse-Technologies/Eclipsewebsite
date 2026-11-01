@@ -1,18 +1,18 @@
 <?php
-$pageTitle = 'PFOS Treatment Systems for Water | Eclipse Water Technologies';
-$pageDescription = 'Explore PFOS treatment options for industrial and facility water, including granular activated carbon, ion exchange, and reverse osmosis. Treatment selection depends on water analysis and verification.';
+$pageTitle = 'PFOS & PFAS Water Treatment Ontario | Eclipse Water Technologies';
+$pageDescription = 'PFOS and PFAS water treatment planning in Ontario and across Canada: compare GAC, ion exchange, and reverse osmosis, with water analysis, residuals handling, and testing built in.';
 $pageExtraHead = <<<'EXTRAHEAD'
-  <meta name="keywords" content="PFOS treatment, PFAS water treatment, PFOS removal, granular activated carbon PFOS, ion exchange PFOS, industrial PFAS treatment" />
+  <meta name="keywords" content="PFOS treatment Ontario, PFOS water treatment Canada, PFAS water treatment Ontario, PFOS removal from water, PFAS removal systems, GAC for PFOS, ion exchange PFAS, reverse osmosis PFAS, industrial PFAS treatment, PFAS water testing and treatment planning" />
   <meta name="author" content="Eclipse Water Technologies" />
   <link rel="canonical" href="https://eclipsewatertechnologies.com/pfos-treatment.php" />
-  <meta property="og:title" content="PFOS Treatment Systems for Water | Eclipse Water Technologies" />
+  <meta property="og:title" content="PFOS & PFAS Water Treatment Ontario | Eclipse Water Technologies" />
   <meta property="og:description" content="Review PFOS treatment options, system considerations, and verification needs for facility water applications." />
   <meta property="og:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta property="og:url" content="https://eclipsewatertechnologies.com/pfos-treatment.php" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="en_CA" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="PFOS Treatment Systems for Water | Eclipse Water Technologies" />
+  <meta name="twitter:title" content="PFOS & PFAS Water Treatment Ontario | Eclipse Water Technologies" />
   <meta name="twitter:description" content="Compare PFOS treatment approaches and the water analysis, operating conditions, and verification needed to plan a treatment system." />
   <meta name="twitter:image" content="https://eclipsewatertechnologies.com/Eclipselogo2026.png" />
   <meta name="twitter:site" content="@EclipseWaterTech" />

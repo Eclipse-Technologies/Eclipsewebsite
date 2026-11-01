@@ -1,8 +1,8 @@
 ﻿<?php
 $pageTitle = 'Industrial Water Treatment Ontario | Deionized Water Service Toronto | Eclipse Water Technologies';
-$pageDescription = 'Industrial water treatment, deionized water service, DI tank exchange, reverse osmosis, water softeners, and activated carbon filtration across Ontario and Toronto. Local service, no U.S. tariff exposure, and faster response times for industrial, laboratory, and healthcare facilities.';
+$pageDescription = 'Industrial water treatment, deionized water service, DI tank exchange, reverse osmosis, water softeners, activated carbon filtration, and PFOS/PFAS treatment planning across Ontario and Toronto. Local service, no U.S. tariff exposure, and faster response times for industrial, laboratory, and healthcare facilities.';
 $pageExtraHead = '
-  <meta name="keywords" content="industrial water treatment Ontario, deionized water service Ontario, DI water service Toronto, water treatment company Ontario, industrial water treatment company Ontario, local water treatment service Ontario, deionized water service Toronto, DI tank exchange service Ontario, reverse osmosis service Ontario, water softener service Ontario, activated carbon filtration Ontario, local DI water provider Ontario, high purity water systems Ontario, process water treatment Canada, no tariff water service Ontario" />
+  <meta name="keywords" content="industrial water treatment Ontario, deionized water service Ontario, DI water service Toronto, water treatment company Ontario, industrial water treatment company Ontario, local water treatment service Ontario, deionized water service Toronto, DI tank exchange service Ontario, reverse osmosis service Ontario, water softener service Ontario, activated carbon filtration Ontario, PFOS treatment Ontario, PFAS water treatment Canada, local DI water provider Ontario, high purity water systems Ontario, process water treatment Canada, no tariff water service Ontario" />
   <meta name="author" content="Eclipse Water Technologies" />
   <link rel="canonical" href="https://eclipsewatertechnologies.com/" />
   <meta property="og:title" content="Industrial Water Treatment Ontario | Deionized Water Service Toronto | Eclipse Water Technologies" />
@@ -35,7 +35,7 @@ $pageExtraHead = '
       "addressRegion": "ON",
       "addressCountry": "CA"
     },
-    "description": "Proudly Canadian provider of industrial water treatment, deionized water service, water softeners, and activated carbon filtration for industrial, laboratory, and healthcare clients. Local service with no cross-border tariff exposure and faster response times.",
+    "description": "Proudly Canadian provider of industrial water treatment, deionized water service, water softeners, activated carbon filtration, and PFOS/PFAS treatment support for industrial, laboratory, and healthcare clients. Local service with no cross-border tariff exposure and faster response times.",
     "areaServed": [
       { "@type": "AdministrativeArea", "name": "Ontario" },
       { "@type": "Country", "name": "Canada" }
@@ -112,6 +112,11 @@ include 'header.php';
           <h3>&#9878;&#65039; Activated Carbon</h3>
           <p>Carbon filtration to remove chlorine, organics, and taste/odour compounds before sensitive processes.</p>
           <a href="activated-carbon-filtration-service.php" class="link">Learn more &rarr;</a>
+        </div>
+        <div class="home-card">
+          <h3>&#128300; PFOS &amp; PFAS Treatment</h3>
+          <p>Evaluate GAC, ion exchange, and reverse osmosis options for PFOS, based on your water analysis, residuals plan, and testing requirements.</p>
+          <a href="pfos-treatment.php" class="link">PFOS treatment options &rarr;</a>
         </div>
       </div>
       <p style="text-align:center;margin-top:1.5rem;"><a href="services.php" class="link">View all services &rarr;</a></p>
