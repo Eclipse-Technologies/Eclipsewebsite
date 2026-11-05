@@ -86,6 +86,20 @@ include 'header.php';
       <p>Applicable requirements vary by location and end use. Confirm project-specific targets and compliance obligations with the relevant authorities and qualified professionals.</p>
     </article>
     <article class="card">
+      <h2>What to send us for a review</h2>
+      <ul class="bullets">
+        <li>Laboratory results showing PFOS and the wider PFAS panel, with detection limits and sample dates</li>
+        <li>General water chemistry: TOC, hardness, chloride, sulfate, pH, and iron or manganese</li>
+        <li>Average and peak flow, operating pressure, and daily run hours</li>
+        <li>Treated-water use and any discharge or permit requirements</li>
+        <li>Site constraints: footprint, power, drain access, and existing treatment equipment</li>
+      </ul>
+    </article>
+    <article class="card">
+      <h2>Regulatory context in Ontario and Canada</h2>
+      <p>Health Canada and the Ontario Ministry of the Environment, Conservation and Parks publish PFAS guidance and criteria that can change over time. Confirm the current limits and reporting obligations that apply to your site, whether for drinking water, process water, or discharge, before setting a treatment target.</p>
+    </article>
+    <article class="card">
       <h2>Frequently asked questions</h2>
       <p><strong>What treatment methods can be considered for PFOS in water?</strong><br>GAC, specialized ion-exchange media, and high-pressure membrane processes may be considered. Suitability and performance depend on water chemistry, concentration, flow, and treatment goals.</p>
       <p><strong>Does a PFOS treatment filter destroy PFOS?</strong><br>Many processes capture or concentrate PFOS rather than destroy it. Spent media, brine, or membrane concentrate needs an appropriate handling and disposal plan.</p>
@@ -97,6 +111,8 @@ include 'header.php';
         <li><a class="link" href="activated-carbon-filtration-service.php">Activated Carbon Filtration Service</a></li>
         <li><a class="link" href="industrial-reverse-osmosis-systems.php">Industrial Reverse Osmosis Systems</a></li>
         <li><a class="link" href="industrial-water-treatment-toronto.php">Industrial Water Treatment Toronto</a></li>
+        <li><a class="link" href="industries.php">Industries We Serve</a></li>
+        <li><a class="link" href="resources.php">Water Treatment Resources</a></li>
       </ul>
     </article>
   </section>
